@@ -697,8 +697,10 @@ $messages['eu'] = array(
 
 /** Persian (فارسی)
  * @author BlueDevil
+ * @author Huji
  * @author Wayiran
  * @author جواد
+ * @author پاناروما
  */
 $messages['fa'] = array(
 	'article-comments-anonymous' => 'کاربر گمنام',
@@ -713,11 +715,13 @@ $messages['fa'] = array(
 	'article-comments-rc-comment' => 'نظر مقاله (<span class="plainlinks">[$1 $2]</span>)',
 	'article-comments-rc-comments' => 'نظرات مقاله ([[$1]])',
 	'article-comments-fblogin' => 'برای فرستادن نظر در این ویکی لطفاً <a href="$1">به فیس‌بوک وارد و متصل شوید</a>!',
+	'article-comments-fbconnect' => 'لطفا <a href="<span class=" notranslate"="">$1 ">این حساب را به فیس بوک متصل کنید</a> تا نظر بدهید!',
 	'article-comments-rc-blog-comment' => 'نظر وبلاگ (<span class="plainlinks">[$1 $2]</span>)',
 	'article-comments-rc-blog-comments' => 'نظرات وبلاگ ([[$1]])',
 	'article-comments-login' => 'برای نظر دادن <a href="$1">وارد سامانه شوید</a>.',
 	'article-comments-toc-item' => 'نظرات',
 	'article-comments-comment-cannot-add' => 'شما نمی‌توانید به مقاله نظری را اضافه کنید.',
+	'article-comments-vote' => 'رای موافق',
 	'article-comments-reply' => 'پاسخ',
 	'article-comments-show-all' => 'نمایش همهٔ نظرات',
 	'article-comments-prev-page' => 'قبلی',
@@ -725,8 +729,16 @@ $messages['fa'] = array(
 	'article-comments-page-spacer' => '&#160...&#160',
 	'article-comments-delete-reason' => 'مقالهٔ مادر / نظر مادر حذف شده است.',
 	'article-comments-empty-comment' => "شما نمی‌توانید یک نظر خالی بفرستید. <a href='$1'>به‌جایش حذف شود؟</a>",
+	'wikiamobile-article-comments-header' => 'نظرها<span class="cnt" id="wkArtCnt">$1</span>',
+	'wikiamobile-article-comments-more' => 'ادامه مطلب',
+	'wikiamobile-article-comments-none' => 'بدون نظر',
+	'wikiamobile-article-comments-view' => 'مشاهده پاسخ‌ها',
 	'wikiamobile-article-comments-replies' => 'پاسخ‌ها',
+	'wikiamobile-article-comments-post-reply' => 'ارسال پاسخ',
+	'wikiamobile-article-comments-post' => 'پست',
+	'wikiamobile-article-comments-placeholder' => 'ارسال نظر',
 	'wikiamobile-article-comments-show' => 'نمایش',
+	'wikiamobile-article-comments-login-post' => 'لطفا برای ارسال نظر به سامانه وارد شوید.',
 );
 
 /** Finnish (suomi)

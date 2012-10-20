@@ -246,6 +246,7 @@ $messages['et'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Huji
  * @author Reza1615
  * @author جواد
  */
@@ -255,6 +256,8 @@ $messages['fa'] = array(
 	'quickstats-header-edits' => 'ویرایش‌ها',
 	'quickstats-header-photos' => 'عکس‌ها',
 	'quickstats-totals-label' => 'مجموع',
+	'quickstats-number-shortening' => '$1 هزار',
+	'quickstats-number-shortening-millions' => '$1 میلیون',
 );
 
 /** Finnish (suomi)

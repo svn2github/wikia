@@ -670,6 +670,7 @@ $messages['cy'] = array(
 /** German (Deutsch)
  * @author Claudia Hattitten
  * @author LWChris
+ * @author Metalhead64
  * @author PtM
  * @author The Evil IP address
  */
@@ -780,6 +781,12 @@ Wikia Community Team
 
 ___________________________________________
 * Wenn du weniger Nachrichten von uns erhalten möchtest, so kannst du dort deine E-Mail-Einstellungen ändern: http://de.community.wikia.com/Spezial:Einstellungen',
+	'autocreatewiki-welcometalk-wall-title' => 'Willkommen!',
+	'autocreatewiki-welcometalk-wall' => 'Hallo!
+Wir freuen uns, dass {{subst:SITENAME}} jetzt Teil der Wikia-Gemeinschaft ist! Es gibt noch Einiges zu tun, deshalb hier nun als Hilfe ein paar Tips und Links, um dein Wiki zum Laufen zu bringen:
+* Du weißt nicht, womit du anfangen sollst? Schau im [[w:c:community:Admin_Central:Main_Page|Gründer- und Adminbereich]] vorbei und lies im [[w:c:community:Blog:Wikia_Founders_&_Admins|Blog]], wie du deinem Wiki eine Starthilfe geben und es wachsen lassen kannst!*Besuche [[w:c:community:main page|die Wikia Community Deutschland]], um Freundschaften im [[w:c:community:Special:Chat|Chat]] zu schließen, neue Features kennenzulernen, und Wikias Nachrichten und Ankündigungen im [[w:c:community:Blog:Wikia_Staff_Blog|offiziellen Blog]] mitzukriegen.*Schau zu unseren [[w:c:community:Webinars|Webseminaren]], wo du dich registrieren, mit den Wikia-Mitarbeitern interagieren und deine letzten Sitzungen ansehen kannst.*Schau dir auf alle Fälle mal bei den [[Special:WikiFeatures|Wiki-Funktionen]] an, welche Erweiterungen du in deinem Wiki aktivieren kannst!*Besuche unser [[w:c:community:Admin_Central:Forum|Forum]] im Gründer- und Adminbereich und lies Fragen, die andere Wiki-Administratoren haben.*Zu guter Letzt: Durchsuche unsere [[w:c:community:Help:Contents|Hilfeseiten]], die dir so manche deiner Fragen beantworten können.
+Alle diese Links sind gute Stellen, um Wikia kennenzulernen. Falls du irgendwann nicht weiter weißt oder keine Antwort auf deine Frage findest, dann setz dich mit uns [[Special:Contact|über diese Seite]] in Verbindung. Aber vor allem viel Spaß!
+Frohes Schaffen!',
 	'autocreatewiki-welcometalk' => "== Willkommen! ==
 <div style=\"font-size:120%; line-height:1.2em;\">Hi \$1 -- wir freuen uns, dass '''\$4''' jetzt Teil der Wikia-Gemeinschaft ist!
 
@@ -1140,6 +1147,12 @@ $3
 Equipo Comunitario de Wikia
 
 <http://www.wikia.com/wiki/User:$4>',
+	'autocreatewiki-welcometalk-wall-title' => '¡Bienvenido!',
+	'autocreatewiki-welcometalk-wall' => '¡Hola a todos!
+¡Estamos encantados de que {{subst:SITENAME}} forme parte de la comunidad de Wikia! Todavía queda mucho por hacer, así que aquí tienes algunos consejos y enlaces para mejorar tu wiki:
+*¿No estás seguro de por dónde empezar? ¡Pásate por la [[w:c:community:Admin_Central:Main_Page|Central de administración]] y consulta el [[w:c:community:Blog:Wikia_Founders_&_Admins|blog]] para encontrar consejos para comenzar tu wiki y hacerlo crecer! *Visita el [[w:c:community:main page|wiki central de la comunidad]] para hacer amigos a través del [[w:c:community:Special:Chat|chat]], consigue más información sobre las nuevas características y mantente actualizado con las novedades y características futuras de Wikia en el [[w:c:community:Blog:Wikia_Staff_Blog|blog del personal]]. *Echa una ojeada a nuestra [[w:c:community:Webinars|serie web]], a la que te puedes subscribir para estar en contacto con el personal de Wikia, así como para revisar las sesiones anteriores.  *¡Asegúrate de consultar las [[Special:WikiFeatures|características del wiki]] para ver las características que puedes activar en tu wiki!  *Explora nuestros [[w:c:community:Admin_Central:Forum|foros]] en la Central de administración para ver lo que preguntan los administradores de otros wikis.  *Por último, visita nuestras [[w:c:community:Help:Contents|páginas de ayuda]] para encontrar las respuestas a cualquier pregunta específica que puedas tener.
+Todos los enlaces anteriores son magníficos lugares para comenzar a explorar Wikia. Si no sabes como continuar o tienes una pregunta sin respuesta, pónte en contacto con nosotros [[Special:Contact|aquí]]. Pero por encima de todo, ¡diviértete!
+¡Pásalo bien!',
 	'autocreatewiki-welcometalk' => "== ¡Bienvenidos! ==
 <div style=\"font-size:120%; line-height:1.2em;\">Hola \$1 -- nos encanta que '''\$4''' sea parte de la comunidad Wikia!
 
@@ -1235,6 +1248,7 @@ $messages['eu'] = array(
  * @author Huji
  * @author Wayiran
  * @author جواد
+ * @author پاناروما
  */
 $messages['fa'] = array(
 	'autocreatewiki' => 'ایجاد ویکی جدید',
@@ -1249,13 +1263,19 @@ $messages['fa'] = array(
 	'autocreatewiki-language-all' => 'همۀ زبان‌ها',
 	'autocreatewiki-birthdate' => 'تاریخ تولد:',
 	'autocreatewiki-blurry-word' => 'لغت نامعلوم:',
+	'autocreatewiki-remember' => 'مرا به خاطر بسپار',
 	'autocreatewiki-create-account' => 'ایجاد حساب کاربری',
 	'autocreatewiki-done' => 'تمام شد',
 	'autocreatewiki-error' => 'خطا',
 	'autocreatewiki-haveaccount-question' => 'آیا از قبل در ویکیا حساب کاربری دارید؟',
 	'autocreatewiki-success-title-default' => 'ویکی شما ایجاد شد!',
+	'autocreatewiki-success-title-answers' => 'وبگاه پاسخ‌های شما ایجاد شده است!',
 	'autocreatewiki-success-subtitle' => 'با مراجعه به نشانی روبرو شما می‌توانید کار بر روی ویکی خود را آغاز کنید:',
+	'autocreatewiki-success-has-been-created' => 'ایجاد شده است!',
+	'autocreatewiki-success-get-started' => 'شروع',
 	'autocreatewiki-info-domain' => 'بهتر است از کلمه‌ای استفاده کنید که درصد جستجو شدن آن در موضوع ویکی شما زیاد باشد.',
+	'autocreatewiki-info-topic' => 'اضافه کردن توضیحات کوتاه مانند "جنگ ستارگان" یا "نمایش‌های تلویزیونی".',
+	'autocreatewiki-info-category-default' => 'این به بازدیدکنندگان کمک می‌کند ویکی شما را پیدا کنند.',
 	'autocreatewiki-info-language' => 'این زبان پیش‌فرض ویکی شما خواهد بود.',
 	'autocreatewiki-info-email-address' => 'آدرس پست الکترونیکی شما به کاربران ویکیا نمایش داده نخواهد شد.',
 	'autocreatewiki-info-birthdate' => 'تمام کاربران ویکیا مستلزم هستند که تاریخ تولد اصلی خود را برای احتیاط و حفظ منافع وب‌گاه در برابر دولت ارائه کنند.',
@@ -1770,6 +1790,12 @@ O equipo comunitario de Wikia
 
 ___________________________________________
 * Quere recibir menos mensaxes da nosa parte? Pode cancelar a súa subscrición ou cambiar as súas preferencias de correo electrónico aquí: http://community.wikia.com/Special:Preferences',
+	'autocreatewiki-welcometalk-wall-title' => 'Reciba a nosa benvida!',
+	'autocreatewiki-welcometalk-wall' => 'Ola!
+Estamos encantados de que {{subst:SITENAME}} sexa parte da comunidade de Wikia! Aínda hai moito por facer, así que aquí hai algúns consellos e ligazóns para comezar a darlle un pulo ao seu wiki:
+*Non está seguro de onde empezar? Pase pola [[w:c:community:Admin_Central:Main_Page|Central de administración]] e consulte o [[w:c:community:Blog:Wikia_Founders_&_Admins|blogue]] para atopar consellos sobre como comezar o wiki e facelo medrar! *Visite o [[w:c:community:main page|wiki central da comunidade]] para facer amizades a través do [[w:c:community:Special:Chat|chat]] e obteña máis información sobre as novas características e estea ao día das novidades sobre Wikia e das características futuras no [[w:c:community:Blog:Wikia_Staff_Blog|blogue do persoal]]. *Bótelle unha ollada á nosa [[w:c:community:Webinars|serie web]], á que se pode subscribir para estar en contacto co persoal de Wikia, así como revisar as sesións anteriores *Asegúrese de consultar as [[Special:WikiFeatures|características do wiki]] para ollar as características que pode activar no seu wiki! *Explore os nosos [[w:c:community:Admin_Central:Forum|foros]] na Central de administración para ver o que preguntan os administradores doutros wikis. *Por último, visite as nosas [[w:c:community:Help:Contents|páxinas de axuda]] para atopar as respostas a calquera pregunta específica que poida ter.
+Todas as ligazóns anteriores son magníficos lugares para comezar a explorar Wikia. Se non sabe como continuar ou ten unha pregunta sen resposta, póñase en contacto con nós [[Special:Contact|aquí]]. Pero o máis importante é divertirse! :)
+Páseo ben!',
 	'autocreatewiki-welcometalk' => "== Benvido! ==
 <div style=\"font-size:120%; line-height:1.2em;\">Ola \$1; estamos encantados de que '''\$4''' sexa parte da comunidade de Wikia!
 
@@ -2957,6 +2983,12 @@ $messages['mk'] = array(
 $3
 Поддршка на заедницата на Викимедија 
 <http://community.wikia.com/wiki/User:$4>',
+	'autocreatewiki-welcometalk-wall-title' => 'Добредојдовте!',
+	'autocreatewiki-welcometalk-wall' => 'Здраво!
+Со возбуда му посакуваме добредојде на викито „{{subst:SITENAME}}“, кое сега е дел од заедницата на Викија! Сепак, има многу што да се прави, па затоа еве некои корисни совети и врски што ќе ве наведат на добар почеток:
+*Не знаете каде да почнете? Навратете на [[w:c:community:Admin_Central:Main_Page|Центарот на основачи и администратори]] и погледајте го [[w:c:community:Blog:Wikia_Founders_&_Admins|Блогот]] за да добиете совети како да го започнете викито и како да почнете да го развивате! *Посетете го [[w:c:community:main page|Центарот на заедницата]] за да се запознаете со другите преку [[w:c:community:Special:Chat|разговорот во живо]], дознајте за новите функции, најновите збиднувања и престојните можности на [[w:c:community:Blog:Wikia_Staff_Blog|Блогот за персоналот]]. *Проследете ја [[w:c:community:Webinars|серијата „Вебинар“]] -- каде можете да се пријавите за да општите и соработувате со персоналот на Викија, но и да ги прегледате изминатите седници *Исто така не заборавајте да ги погледате [[Special:WikiFeatures|Викифункциите]] за да дознаете кои функции ќе можете да ги ставите на вашето вики! *Истражете ги [[w:c:community:Admin_Central:Forum|форумите]] на Центарот за основачи и администратори за да видите што прашуваат другите администратори. *На крај, посетете ги  [[w:c:community:Help:Contents|страниците за помош]] на кои ќе најдете одговори на сите поедини прашања.
+Сите горенаведени врски се одлични места што ве воведуваат во Викија. Ако некаде заглавите или не можете да најдете одговор на некое прашање -- тогаш обратете ни се [[Special:Contact|тука]]. Но, најважно од сè - забавувајте се! :)
+Пријатно уредување!',
 	'autocreatewiki-welcometalk' => "== Добредојдовте! ==
 <div style=\"font-size:120%; line-height:1.2em;\">Здраво \$1 -- баш ни е драго што го имаме викито '''\$4''' како дел од заедницата на Викија!
 
@@ -3287,6 +3319,16 @@ Wikia fellesskapssupport
 
 ___________________________________________
 * Vil du motta færre meldinger fra oss? Du kan avslutte abonnementet eller endre e-postinnstillingene dine her: http://community.wikia.com/Special:Preferences',
+	'autocreatewiki-welcometalk-wall-title' => 'Velkommen!',
+	'autocreatewiki-welcometalk-wall' => 'Hei der!
+Vi er stolte over å ha {{subst:SITENAME}} som en del av Wikia-fellesskapet! Det er fortsatt en masse å gjøre, så her har du noen hjelpsomme tips og lenker for å komme i gang med wikien din:
+*Ikke sikker på hvor du skal begynne? Kom innom [[w:c:community:Admin_Central:Main_Page|Grunnlegger- &amp; Admin-sentralen]] og sjekk ut [[w:c:community:Blog:Wikia_Founders_&_Admins|Bloggen]] for tips om hvordan du kan gi wikien din en pangstart og få den til å vokse!
+*Besøk [[w:c:community:main page|Fellesskapssentralen]] for å skaffe deg venner via [[w:c:community:Special:Chat|chatten]], lære om nye funksjoner og holde deg oppdatert på Wikia-nyheter og kommende funksjoner på [[w:c:community:Blog:Wikia_Staff_Blog|Ledelsesbloggen]].
+*Ta en titt på [[w:c:community:Webinars|webinar-serien vår]] -- hvor du kan registrere deg for å komme i kontakt med Wikia-ledelsen, og i tillegg se tidligere innslag.
+*Sørg for å sjekke ut [[Special:WikiFeatures|Wiki-funksjoner]] for å se hva slags funksjoner du kan aktivere på wikien din! *Utforsk [[w:c:community:Admin_Central:Forum|forumet vårt]] på Grunnlegger- og Admin-sentralen for å se hva andre wiki-administratorer lurer på.
+*Til slutt, besøk [[w:c:community:Help:Contents|hjelpesidene våre]] for å få svar på de spesifikke spørsmålene du måtte ha.
+Alle lenkene ovenfor er gode steder å begynne å utforske Wikia på. Hvis du setter deg fast eller har spørsmål du ikke finner svar på -- vennligst kontakt oss [[Special:Contact|her]]. Men viktigst av alt, ha det gøy! :)
+Gledelig redigering!',
 	'autocreatewiki-welcometalk' => "== Velkommen! == 
 <div style=\"font-size:120%; line-height:1.2em;\">Hei \$1 -- vi er glade over å ha '''\$4''' som en del av Wikia Fellesskapet! 
 
@@ -3687,26 +3729,48 @@ Zespół Wikia
 
 ___________________________________________
 * Chcesz otrzymywać mniej wiadomości? Możesz wyłączyć lub zmienić ustawienia powiadomień tutaj: http://community.wikia.com/Special:Preferences',
-	'autocreatewiki-welcometalk' => "== Witaj \$1! ==
-<div style=\"font-size:120%; line-height:1.4em;\">Gratulujemy rozpoczęcia edycji '''\$4'''! Jest to zupełnie nowy projekt, więc potrzebuje sporego zaangażowania. Oto kilka wskazówek, aby Twoja wiki była genialna.
+	'autocreatewiki-welcometalk-wall-title' => 'Witaj!',
+	'autocreatewiki-welcometalk-wall' => "Gratulujemy rozpoczęcia edycji {{subst:SITENAME}}. Jest to zupełnie nowy projekt, więc potrzebuje sporego zaangażowania. Oto kilka wskazówek na dobry początek.
 
 
-* '''Ta wiki jest Twoja – korzystaj i ciesz się!''' Gdy wiki wystartuje, wiele osób będzie czytać to, o czym piszesz. Na razie jeszcze nikt nie zagląda Ci przez ramię, dlatego też zachęcamy do samodzielnego uczenia się edycji poprzez popełnianie błędów.
+* '''Ta wiki jest Twoja – korzystaj i ciesz się!''' Gdy wiki stanie się popularna, wiele osób będzie czytać to, o czym piszesz. Na razie jeszcze nikt nie zagląda Ci przez ramię, dlatego też zachęcamy do samodzielnego uczenia się edycji poprzez popełnianie błędów.
 
 
-* '''Twórz mnóstwo stron z niewielką zawartością tekstu!''' Najtrudniej jest rozpocząć pisanie, gdy patrzy się na pustą stronę i nie bardzo wie od czego zacząć. Wszystko wydaje się znacznie łatwiejsze po napisaniu pierwszych kilku zdań. Tak więc weź głęboki oddech i pisz, strona po stronie. Potem po uruchomieniu wiki można będzie dopisywać na niej więcej tekstu, edytując w miarę upływu czasu. 
+* '''Twórz strony z niewielką zawartością tekstu!''' Najtrudniej jest rozpocząć pisanie, gdy patrzy się na pustą stronę i nie bardzo wie od czego zacząć. Wszystko wydaje się znacznie łatwiejsze po napisaniu pierwszych kilku zdań. Tak więc weź głęboki oddech i pisz, strona po stronie. Potem można będzie dopisywać na niej więcej tekstu, edytując w miarę upływu czasu. 
 
 
-* '''Łącz strony przy pomocy linków!''' Linki ułatwią Tobie i innym czytelnikom odnaleźć się na tej wiki, przełączać się z jednej strony na drugą. Aby zrobić link do strony o podobnej tematyce, użyj przycisku \"Dodaj link\". Warto również na pierwszej stronie opisującej tematykę danej wiki umieścić link do wszystkich najważniejszych stron. 
+* '''Łącz strony przy pomocy linków!''' Linki ułatwią Tobie i innym czytelnikom odnaleźć się na tej wiki, przełączać się z jednej strony na drugą. Aby utworzyć link do strony o podobnej tematyce, użyj przycisku \"Dodaj link\". Warto również na pierwszej stronie opisującej tematykę danej wiki umieścić link do wszystkich najważniejszych stron. 
 
 
-* '''Dodaj obrazy!''' Dobrze dobrany obrazek urozmaici Twoją wiki. Podczas edycji strony, użyj przycisku \"Dodaj obraz\", aby przesłać obrazek z komputera na stronę. 
+* '''Dodaj obrazy!''' Dobrze dobrany obraz urozmaici Twoją wiki. Podczas edycji strony, użyj przycisku \"Dodaj obraz\", aby przesłać obraz z komputera na stronę. 
 
 
-* '''Kiedy ukończysz edycję wiki – pokaż ją przyjaciołom!''' Jeśli utworzyłeś kilka stron, połącz je linkami i dodaj obrazki. Prawdopodobnie znasz ludzi, którzy mają podobne zainteresowania do Twoich, więc poleć im zajrzenie na Twoją wiki. Oni będą jej pierwszymi czytelnikami i prawdopodobnie również pomogą Ci w edycji tekstów, służ im zatem radami, jeśli będą potrzebowali pomocy.
+* '''Kiedy ukończysz edycję wiki – pokaż ją znajomym!''' Jeśli utworzyłeś kilka stron, połącz je linkami i dodaj obrazy. Prawdopodobnie znasz ludzi, którzy mają podobne zainteresowania do Twoich, więc poleć im zajrzenie na Twoją wiki. Oni będą jej pierwszymi czytelnikami i prawdopodobnie również pomogą Ci w edycji tekstów, służ im zatem radami, jeśli będą potrzebowali pomocy.
 
 
-Jeśli masz problem, skontaktuj się z nami poprzez [[Special:Contact|formularz kontaktowy]] -- chętnie pomożemy!
+Jeśli masz problem, [[Special:Contact|skontaktuj się z nami]] lub zajrzyj na [http://spolecznosc.wikia.com/wiki/Centrum_Społeczności Centrum Społeczności] -- chętnie pomożemy!
+
+Powodzenia!<div style=\"display:none\">[[w:c:community:Admin_Central:Main_Page|Founder & Admin Central]], [[w:c:community:Blog:Wikia_Founders_&_Admins|Blog]], [[w:c:community:main page|Community Central]], [[w:c:community:Special:Chat|chat]], [[w:c:community:Blog:Wikia_Staff_Blog|Staff Blog]], [[w:c:community:Webinars|webinar series]], [[Special:WikiFeatures|Wiki Features]], [[w:c:community:Admin_Central:Forum|forums]], [[w:c:community:Help:Contents|Help Pages]]</div>",
+	'autocreatewiki-welcometalk' => "== Witaj! ==
+<div style=\"font-size:120%; line-height:1.4em;\">Witaj \$1 -- Gratulujemy rozpoczęcia edycji '''\$4'''! Jest to zupełnie nowy projekt, więc potrzebuje sporego zaangażowania. Oto kilka wskazówek na dobry początek.
+
+
+* '''Ta wiki jest Twoja – korzystaj i ciesz się!''' Gdy wiki stanie się popularna, wiele osób będzie czytać to, o czym piszesz. Na razie jeszcze nikt nie zagląda Ci przez ramię, dlatego też zachęcamy do samodzielnego uczenia się edycji poprzez popełnianie błędów.
+
+
+* '''Twórz strony z niewielką zawartością tekstu!''' Najtrudniej jest rozpocząć pisanie, gdy patrzy się na pustą stronę i nie bardzo wie od czego zacząć. Wszystko wydaje się znacznie łatwiejsze po napisaniu pierwszych kilku zdań. Tak więc weź głęboki oddech i pisz, strona po stronie. Potem można będzie dopisywać na niej więcej tekstu, edytując w miarę upływu czasu. 
+
+
+* '''Łącz strony przy pomocy linków!''' Linki ułatwią Tobie i innym czytelnikom odnaleźć się na tej wiki, przełączać się z jednej strony na drugą. Aby utworzyć link do strony o podobnej tematyce, użyj przycisku \"Dodaj link\". Warto również na pierwszej stronie opisującej tematykę danej wiki umieścić link do wszystkich najważniejszych stron. 
+
+
+* '''Dodaj obrazy!''' Dobrze dobrany obraz urozmaici Twoją wiki. Podczas edycji strony, użyj przycisku \"Dodaj obraz\", aby przesłać obraz z komputera na stronę. 
+
+
+* '''Kiedy ukończysz edycję wiki – pokaż ją znajomym!''' Jeśli utworzyłeś kilka stron, połącz je linkami i dodaj obrazy. Prawdopodobnie znasz ludzi, którzy mają podobne zainteresowania do Twoich, więc poleć im zajrzenie na Twoją wiki. Oni będą jej pierwszymi czytelnikami i prawdopodobnie również pomogą Ci w edycji tekstów, służ im zatem radami, jeśli będą potrzebowali pomocy.
+
+
+Jeśli masz problem, [[Special:Contact|skontaktuj się z nami]] lub zajrzyj na [http://spolecznosc.wikia.com/wiki/Centrum_Społeczności Centrum Społeczności] -- chętnie pomożemy!
 
 Powodzenia!
 
@@ -4392,6 +4456,12 @@ $3
 
 ___________________________________________
 * Хотите получать менньше писем от нас? Вы можете отписаться от рассылки или изменить её на странице личных настроек:  http://community.wikia.com/Special:Preferences',
+	'autocreatewiki-welcometalk-wall-title' => 'Добро пожаловать!',
+	'autocreatewiki-welcometalk-wall' => 'Привет!
+Мы рады, что  {{subst:SITENAME}} стала частью сообщества Викия! Вам ещё многое предстоит сделать, поэтому мы хотим дать вам несколько советов и полезных ссылок, которые помогут вам начать:
+*Загляните на  [[w:c:ru.community|Вики Сообщества]] и посмотрите [[w:c:ru.community:Категория:Советы|список советов]] о том, как сделать так, чтобы вики росла.*Прочтите [[w:c:ru.community|последние записи в блогах]], чтобы узнать о новых возможностях и обновления[ Викия. *Если вы знаете английский, то вас обязательно заинтересуют [[w:c:community:Webinars|вебинары]], которые проводят сотрудники Викия. *Не забудьте проверить страницу [[Special:WikiFeatures|приложения Викия]], где вы можете подключить новые возможности для своей вики. *[[w:c:ru.community:Форум:Сообщество|Наш Форум]] всегда открыт для вас. На нём вы можете задать любой вопрос и получить ответ на него от опытных участников разных викий. *Наконец, не забывайте о [[Справка:Содержание|страницах Справка]], где есть ответы на большинство простых вопросов.
+Все вышеприведённые страницы являются отличным местом, чтобы изучить основы создания вики. Если же вы всё-таки не нашли ответа на свой вопрос, вы всегда можете спросить непосредственно [[Special:Contact|сотрудников Викия]]. Самое главное помнить, что в первую очередь вы должны получать удовольствие от своей вики! :)
+Счастливого редактирования!',
 	'autocreatewiki-welcometalk' => "== Добро пожаловать! ==
 <div style=\"font-size:120%; line-height:1.2em;\">Здравствуйте, \$1 — мы рады, что '''\$4''' — часть сообщества Wikia!
 
@@ -4442,7 +4512,7 @@ $messages['sr-ec'] = array(
 	'autocreatewiki-birthdate' => 'Датум рођења:',
 	'autocreatewiki-blurry-word' => 'Мутна реч:',
 	'autocreatewiki-remember' => 'Запамти ме',
-	'autocreatewiki-create-account' => 'Отворите налог',
+	'autocreatewiki-create-account' => 'Отвори налог',
 	'autocreatewiki-done' => 'готово',
 	'autocreatewiki-error' => 'грешка',
 	'autocreatewiki-haveaccount-question' => 'Имате ли налог на Викији?',

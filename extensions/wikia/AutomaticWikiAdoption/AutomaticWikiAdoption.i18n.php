@@ -427,11 +427,13 @@ Kasulikud tööriistad:
 /** Persian (فارسی)
  * @author Ebraminio
  * @author Wayiran
+ * @author پاناروما
  */
 $messages['fa'] = array(
 	'wikiadoption' => 'اتخاذ خودکار ویکی',
 	'wikiadoption-header' => 'اتخاذ این ویکی',
 	'wikiadoption-button-adopt' => 'هم‌اکنون اتخاذ کن',
+	'wikiadoption-adopt-inquiry' => 'بیشتر بیاب',
 	'wikiadoption-know-more-header' => 'چگونه بیشتر بدانیم؟',
 );
 

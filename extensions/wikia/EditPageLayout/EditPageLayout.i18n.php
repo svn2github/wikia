@@ -527,6 +527,7 @@ $messages['diq'] = array(
 	'editpagelayout-pageControls-changes' => 'Vurnayışi',
 	'editpagelayout-blocked-user' => 'Nameyê karberi ya zi adresa IPê şıma kılit biya.',
 	'editpagelayout-edit-summary-label' => 'Xulasay Bıvurnen',
+	'editpagelayout-subject-headline-label' => 'Mersel/Sernuşte:',
 	'wikia-editor-media-image' => 'Fotraf',
 	'wikia-editor-media-gallery' => 'Galeri',
 	'wikia-editor-media-slideshow' => 'Slaytşow',

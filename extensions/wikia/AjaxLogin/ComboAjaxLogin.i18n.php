@@ -263,6 +263,18 @@ Por favor intenta de nuevo o [[Special:Contact|reporta esto]].',
 	'comboajaxlogin-ajaxerror' => 'Wikia no responde. Por favor, comprueba tu conexión.',
 );
 
+/** Persian (فارسی)
+ * @author Huji
+ * @author پاناروما
+ */
+$messages['fa'] = array(
+	'comboajaxlogin-createlog' => 'وارد شوید یا حساب کاربری ایجاد کنید',
+	'comboajaxlogin-actionmsg' => 'برای انجام این کار، لازم است اول به سیستم وارد شوید یا حساب کاربری ایجاد کنید',
+	'comboajaxlogin-actionmsg-protected' => 'برای انجام این عمل، لازم است اول به سامانه وارد شوید یا حساب کاربری ایجاد کنید.',
+	'comboajaxlogin-log-in-with-facebook-oasis' => '<h1>وارد شدن از طریق فیس بوک</h1>',
+	'comboajaxlogin-ajaxerror' => 'ویکی پاسخ نمی دهد. لطفاً اتصال شبکه خود را بررسی کنید.',
+);
+
 /** Finnish (suomi)
  * @author Nike
  * @author Tofu II

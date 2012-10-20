@@ -149,10 +149,10 @@ $messages['qqq'] = array(
 * $1 is free-form user input, usually contains gender but sometimes a more general statement, such as "a rockstar". This is by design.',
 	'user-identity-box-edits-since-joining' => 'Parameters:
 * $1 is the number of edits',
+	'user-identity-box-group-adminmentor' => 'Group name shown on user profile for users who are Admin Mentors.',
 	'user-identity-box-join-more-wikis' => 'Message in user profile for when said user has not yet edited in wikis which could be displayed as his favourites',
 	'user-identity-remove-confirmation' => 'appears when user is trying to remove avatar',
 	'user-identity-remove-fail' => 'appears in alert box when there ware some when removing the avatar',
-	'user-identity-box-group-adminmentor' => 'Group name shown on user profile for users who are Admin Mentors.',
 );
 
 /** Arabic (العربية) */

@@ -1146,6 +1146,7 @@ $messages['et'] = array(
 /** Basque (euskara)
  * @author An13sa
  * @author Theklan
+ * @author Xabier Armendaritz
  */
 $messages['eu'] = array(
 	'renameuser' => 'Erabiltzaile bati izena aldatu',
@@ -1160,10 +1161,11 @@ $messages['eu'] = array(
 	'userrenametool-errortoomany' => '"<nowiki>$1</nowiki>" lankideak $2 {{PLURAL:$2|ekarpen|ekarpen}} ditu, $3 baino {{PLURAL:$3|ekarpen|ekarpen}} gehiago dituen lankide baten izena aldatzeak gunearen errendimenduan eragin txarrak izan ditzake.',
 	'userrenametool-success' => '"<nowiki>$1</nowiki>" lankidearen izen berria "<nowiki>$2</nowiki>" da',
 	'userrenametool-page-exists' => 'Badago $1 orrialdea, eta ezin da automatikoki gainidatzi.',
-	'userrenametool-page-moved' => '$1 orrialde $2(e)ra mugitu da.',
+	'userrenametool-page-moved' => '$1 orria $2 izenera aldatu da.',
 	'userrenametool-page-unmoved' => 'Ezin izan da $1 orrialdea $2(e)ra mugitu.',
 	'userrenametool-logpage' => 'Erabiltzaileen izen aldaketa erregistroa',
 	'userrenametool-logpagetext' => 'Erabiltzaileen izen aldaketen erregistroa da hau',
+	'userrenametool-move-log' => 'Orria automatikoki lekualdatu da, «[[User:$1|$1]]» wikilaria «[[User:$2|$2]]» izenera aldatzean',
 	'right-renameuser' => 'Lankideak berrizendatu',
 );
 

@@ -1074,7 +1074,9 @@ $messages['ku-latn'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
+	'founderprogressbar-progress-see-full-list' => 'Ganz Lëscht weisen',
 	'founderprogressbar-list-task-label' => 'Aufgaben',
+	'founderprogressbar-list-skipped-task-desc' => 'Dir kënnt dës zu all Moment fäerdeg maachen.',
 	'founderprogressbar-page-add10-action' => 'Eng Säit derbäisetzen',
 	'founderprogressbar-mainpage-edit-action' => 'Haaptsäit änneren',
 	'founderprogressbar-photo-add10-action' => 'Eng Foto derbäisetzen',
@@ -1082,6 +1084,8 @@ $messages['lb'] = array(
 	'founderprogressbar-photo-add20-action' => 'Eng Foto derbäisetzen',
 	'founderprogressbar-total-edit75-action' => 'Eng Säit derbäisetzen',
 	'founderprogressbar-page-add20-action' => 'Eng Säit derbäisetzen',
+	'founderprogressbar-category-edit-label' => 'Eng Säit vun enger Kategorie änneren',
+	'founderprogressbar-fb-connect-action' => 'Facebook Connect',
 	'founderprogressbar-category-add5-action' => 'Eng Kategorie derbäisetzen',
 	'founderprogressbar-gallery-add-label' => 'Eng Fotogalerie derbäisetzen',
 	'founderprogressbar-mainpage-addslider-action' => 'Haaptsäit änneren',

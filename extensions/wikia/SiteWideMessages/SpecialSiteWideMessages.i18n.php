@@ -1949,6 +1949,7 @@ $messages['nb'] = array(
 	'swm-button-new' => '[ Ny ]',
 	'swm-msg-sent-ok' => '<h3>Meldingen ble sendt.</h3>',
 	'swm-msg-sent-err' => '<h3>Meldingen ble IKKE sendt.</h3>Se feilloggen for mer informasjon.',
+	'swm-msg-sent-task' => 'Oppgave for å sende melding opprettet: $1',
 	'swm-msg-remove' => 'Er du sikker på at du vil fjerne denne meldingen? Dette kan ikke gjøres om!',
 	'swm-expire-info' => 'Denne meldingen løper ut $1.',
 	'swm-link-dismiss' => 'skjul denne meldingen',
@@ -1994,6 +1995,8 @@ $messages['nb'] = array(
 	'swm-mode-wikis-created-after' => 'Etter',
 	'swm-mode-wikis-created-before' => 'Før',
 	'swm-mode-wikis-created-between' => 'Mellom',
+	'swm-label-mode-wikis-created-hint' => '<i>Datoer må være i formatet 2012-04-01 00:00:00</i>',
+	'swm-error-created-tobeforefrom' => 'Wikiens opprettelsessluttdato er før startdatoen.',
 );
 
 /** Nepali (नेपाली)

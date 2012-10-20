@@ -274,11 +274,12 @@ $messages['ru'] = array(
 );
 
 /** Slovenian (slovenščina)
+ * @author Eleassar
  * @author Lesko987
  */
 $messages['sl'] = array(
 	'wikiarelatedpages-desc' => 'Na strani doda seznam sorodnih strani',
-	'wikiarelatedpages-heading' => 'Preberite več',
+	'wikiarelatedpages-heading' => 'Preberite si več o tem',
 );
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)

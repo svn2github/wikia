@@ -3554,6 +3554,18 @@ $messages['uk'] = array(
 	'usersignup-error-empty-username' => 'Будь ласка, заповніть поле для імені користувача.',
 	'usersignup-error-already-confirmed' => 'Ви вже підтвердили цю адресу електронної пошти.',
 	'usersignup-error-throttled-email' => 'Вам було відправлено занадто багато листів з підтвердженням. Будь ласка, спробуйте ще раз, але трохи пізніше.',
+	'usersignup-error-too-many-changes' => 'Досягнуто максимальної межі для спроб зміни електронної пошти на сьогодні. Будь ласка, повторіть спробу пізніше.',
+	'usersignup-error-password-length' => 'На жаль, ваш пароль занадто довгий. Будь ласка, виберіть пароль, який складається з 50 символів або менше.',
+	'usersignup-error-confirmed-user' => 'Схоже, що ви вже підтвердили свою електронну адресу для $1! Будь ласка, перевірте ваш [$2 профіль користувача].',
+	'usersignup-facebook-heading' => 'Завершити реестрацію.',
+	'usersignup-facebook-create-account' => 'Створити обліковий запис',
+	'usersignup-facebook-email-tooltip' => 'Якщо ви захочете використовувати іншу електронну адресу, ви зможете змінити її в налаштуваннях пізніше.',
+	'usersignup-facebook-have-an-account-heading' => 'Ви вже зареєстровані?',
+	'usersignup-facebook-have-an-account' => "Підключіть уже існуюче ім'я користувача до мережі Facebook",
+	'usersignup-facebook-proxy-email' => 'Анонімна електронна пошта Facebook',
+	'usersignup-user-pref-emailconfirmlink' => 'Надіслати запит про новий лист підтвердження електронної пошти',
+	'usersignup-user-pref-confirmemail_send' => 'Надіслати мені підтвердження електронної пошти',
+	'usersignup-user-pref-emailauthenticated' => 'Дякуємо! Ваша адреса електронної пошти була підтверджена $2 в $3.',
 );
 
 /** Simplified Chinese (中文（简体）‎)
