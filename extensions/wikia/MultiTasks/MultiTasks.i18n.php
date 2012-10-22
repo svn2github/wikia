@@ -110,13 +110,13 @@ $messages['en'] = array(
 	'multidelete_swedish_wikis' => 'all swedish wikis',
 	'multidelete_german_wikis' => 'all german wikis',
 	'action-multidelete' => 'delete a batch of pages',
-/*multi-wiki finder*/	
+/*multi-wiki finder*/
 	'multiwikifinder' => 'Multiwiki Title Finder',
 	'multiwikifindpagenames' => 'Find pagenames',
 	'multiwikienterpagename' => 'Enter a pagename:',
 	'multiwikirecords' => '$1 wiki found',
 	'action-multiwikifinder' => 'search for a specific title across Wikia',
-) ;
+);
 
 /** Message documentation (Message documentation)
  * @author EugeneZelenko
