@@ -693,7 +693,8 @@ $messages['ru'] = array(
 	'wva-thumbnail-upload-failed' => 'Видео добавлено с ошибкой, невозможно получить корректной миниатюры',
 );
 
-/** Sinhala (සිංහල) */
+/** Sinhala (සිංහල)
+ */
 $messages['si'] = array(
 	'wva-name' => 'නම යොදන්න:',
 	'wva-url' => 'URLඑක යොදන්න:',
@@ -809,4 +810,3 @@ $messages['zh-hans'] = array(
 	'wva-url' => '输入URL：',
 	'wva-add' => '添加',
 );
-

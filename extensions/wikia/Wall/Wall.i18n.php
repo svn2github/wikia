@@ -839,7 +839,7 @@ $messages['br'] = array(
 	'wall-notifications-markasread-this-wiki' => 'Ar wiki-mañ',
 	'wall-notifications-empty' => "N'eus kemenn ebet",
 	'wall-notifications-loading' => "O kargañ ar c'hemennoù",
-	'wall-notifications-reminder' => '<span>$1</span> kemenn nann-lennet ho peus',
+	'wall-notifications-reminder' => '<span>$1</span> kemenn nann-lennet ho peus', # Fuzzy
 	'wall-sorting-newest-threads' => 'Neudennadoù nevesañ',
 	'wall-sorting-oldest-threads' => 'Neudennadoù koshañ',
 	'wall-sorting-newest-replies' => 'Respontoù nevesañ',
@@ -1600,7 +1600,7 @@ ___________________________________________<br />
  */
 $messages['fi'] = array(
 	'wall-no-title' => 'Ei otsikkoa',
-	'wall-message-loadmore' => 'Näytä $1 {{PLURAL:$1|vastaus|vastaukset}}',
+	'wall-message-loadmore' => 'Näytä $1 {{PLURAL:$1|vastaus|vastaukset}}', # Fuzzy
 	'wall-message-wall' => 'Viestiseinä',
 	'wall-message-wall-shorten' => 'seinä',
 	'wall-message-unfollow' => 'Lopeta seuraaminen',
@@ -1715,7 +1715,7 @@ Tätä ei voi peruuttaa.',
 	'wn-user3-reply-other-a-wall' => '$1 ja muut vastasivat $3:n viestiin',
 	'wn-newmsg-onmywall' => '$1 jätti uuden viestin seinällesi',
 	'wn-newmsg' => 'Jätit uuden viestin $1:n seinälle',
-	'wn-newmsg-on-followed-wall' => '$1 jätti uuden viestin $2:n seinälle.',
+	'wn-newmsg-on-followed-wall' => '$1 jätti uuden viestin $2:n seinälle.', # Fuzzy
 	'wn-admin-thread-deleted' => 'Keskustelu poistettu $1:n seinältä',
 	'wn-admin-reply-deleted' => 'Vastaus poistettu keskustelusta $1:n seinältä',
 	'wn-owner-thread-deleted' => 'Keskustelu poistettu seinältäsi',
@@ -2338,7 +2338,7 @@ as preferencias de correo electrónico aquí: http://community.wikia.com/Special
  */
 $messages['hu'] = array(
 	'wall-no-title' => 'Nincs cím',
-	'wall-message-loadmore' => 'Összes ($1) válasz megtekintése',
+	'wall-message-loadmore' => 'Összes ($1) válasz megtekintése', # Fuzzy
 	'wall-message-wall' => 'Üzenőfal',
 	'wall-message-wall-shorten' => 'üzenőfala',
 	'wall-message-unfollow' => 'Követés abbahagyása',
@@ -2493,7 +2493,7 @@ Az eredeti üzenet és az indoklásod megmarad a wiki történetében.',
 	'wall-deleted-reply' => 'Ezt a választ törölték',
 	'wall-history' => 'Laptörténet',
 	'wall-history-title' => 'üzenőfal laptörténete',
-	'wall-history-who-involved-wall-title' => 'Ki vesz részt ezen az üzenőfalon?',
+	'wall-history-who-involved-wall-title' => 'Ki vesz részt ezen az üzenőfalon?', # Fuzzy
 	'wall-history-who-involved-thread-title' => 'Ki vesz részt ebben a beszélgetésfolyamban?',
 	'wall-history-thread-created' => '"$1"-t létrehozta $2',
 	'wall-history-thread-removed' => '"$1"-t eltávolította $2',
@@ -2739,7 +2739,7 @@ Le message original e tu summario apparera totevia in le historia del wiki.',
 	'wall-deleted-reply' => 'Iste responsa ha essite delite.',
 	'wall-history' => 'Historia',
 	'wall-history-title' => 'historia del muro',
-	'wall-history-who-involved-wall-title' => 'Qui ha participate sur iste muro?',
+	'wall-history-who-involved-wall-title' => 'Qui ha participate sur iste muro?', # Fuzzy
 	'wall-history-who-involved-thread-title' => 'Qui ha participate in iste discussion?',
 	'wall-history-thread-created' => '$1 create per $2',
 	'wall-history-thread-removed' => '$1 removite per $2',
@@ -3023,7 +3023,7 @@ $messages['ja'] = array(
 	'wall-deleted-reply' => 'この返信は削除されました',
 	'wall-history' => '履歴',
 	'wall-history-title' => 'ウォールの履歴',
-	'wall-history-who-involved-wall-title' => 'このウォールに投稿した利用者',
+	'wall-history-who-involved-wall-title' => 'このウォールに投稿した利用者', # Fuzzy
 	'wall-history-who-involved-thread-title' => 'このスレッドに投稿した利用者',
 	'wall-history-thread-created' => '$2 が $1 を作成しました',
 	'wall-history-thread-removed' => '$2 が $1 を削除しました',
@@ -3140,7 +3140,7 @@ $messages['ko'] = array(
 	'wall-recentchanges-namespace-selector-message-wall' => '메시지 담벼락',
 	'prefs-email-wall-v2' => '메시지 담벼락',
 	'wall-quote-author' => '$1의 원문 :',
-	'wall-quote-reply-to' => '$1에게 댓글',
+	'wall-quote-reply-to' => '$1에게 댓글', # Fuzzy
 );
 
 /** Colognian (Ripoarisch)
@@ -3148,7 +3148,7 @@ $messages['ko'] = array(
  */
 $messages['ksh'] = array(
 	'wall-no-title' => 'Keine Tittel',
-	'wall-message-loadmore' => 'Zeisch {{PLURAL:$1|ein Antwoot|$1 Antwoote|kei Antwoot}}',
+	'wall-message-loadmore' => 'Zeisch {{PLURAL:$1|ein Antwoot|$1 Antwoote|kei Antwoot}}', # Fuzzy
 	'wall-message-undoremove' => 'Zeröcknämme',
 	'wall-toolbar-history' => 'Versione',
 	'wall-message-remove' => 'Fottnämme',
@@ -4852,7 +4852,7 @@ $messages['pt'] = array(
 	'wall-deleted-reply' => 'Esta resposta foi eliminada',
 	'wall-history' => 'Histórico',
 	'wall-history-title' => 'histórico do mural',
-	'wall-history-who-involved-wall-title' => 'Quem está envolvido neste mural?',
+	'wall-history-who-involved-wall-title' => 'Quem está envolvido neste mural?', # Fuzzy
 	'wall-history-who-involved-thread-title' => 'Quem está envolvido neste tópico?',
 	'wall-history-thread-created' => '$1 foi criado por $2',
 	'wall-history-thread-removed' => '$1 foi removido por $2',
@@ -4947,7 +4947,7 @@ suas preferências de e-mail aqui: http://community.wikia.com/Special:Preference
  */
 $messages['pt-br'] = array(
 	'wall-no-title' => 'Sem título',
-	'wall-message-loadmore' => 'Ver todas as $1 {{PLURAL:$1|resposta|respostas}}',
+	'wall-message-loadmore' => 'Ver todas as $1 {{PLURAL:$1|resposta|respostas}}', # Fuzzy
 	'wall-message-wall' => 'Mural de Mensagens',
 	'wall-message-wall-shorten' => 'mural',
 	'wall-message-unfollow' => 'Parar de seguir',
@@ -5044,7 +5044,7 @@ O post original e seu sumário ainda aparecerão no histórico da wiki.',
 	'wall-deleted-reply' => 'Esta resposta foi excluída',
 	'wall-history' => 'Histórico',
 	'wall-history-title' => 'histórico do mural',
-	'wall-history-who-involved-wall-title' => 'Quem está envolvido neste mural?',
+	'wall-history-who-involved-wall-title' => 'Quem está envolvido neste mural?', # Fuzzy
 	'wall-history-who-involved-thread-title' => 'Quem está envolvido neste tópico?',
 	'wall-history-thread-created' => '$1 criado por $2',
 	'wall-history-thread-removed' => '$1 removido por $2',
@@ -5088,7 +5088,7 @@ suas preferências de email aqui: http://pt-br.wikia.com/wiki/Especial:Preferên
 ___________________________________________<br>
 * Procure ajuda e conselho na Wikia Português do Brasil: http://pt-br.wikia.com
 * Quer receber menos mensagens de nós? Você pode cancelar sua inscrição ou alterar
-suas preferências de email aqui: http://pt-br.wikia.com/wiki/Especial:Preferências',
+suas preferências de email aqui: http://pt-br.wikia.com/wiki/Especial:Preferências', # Fuzzy
 	'prefs-email-wall-v2' => 'Mural de Mensagens',
 	'tog-enotifwallthread-v2' => 'Enviar-me um email...',
 	'wall-quote-author' => '$1 escreveu:',
@@ -5403,11 +5403,16 @@ $messages['sv'] = array(
 	'wall-message-unfollow' => 'Sluta följ',
 	'wall-message-undoremove' => 'Ångra',
 	'wall-message-edited' => '<a href="$3" >Redigerades av</a> <a class="username" href="$1">$2</a>',
+	'wall-message-edited-summary' => '<a href="$4" >$1 av </a><a class="username" href="$2">$3</a>',
+	'wall-message-update-topics-summary' => 'Ämnet ändrades',
+	'wall-message-update-highlight-summary' => 'Belyst',
+	'wall-message-update-removed-highlight-summary' => 'Belysning borttagen',
 	'wall-message-mywall' => 'Min vägg',
 	'wall-toolbar-history' => 'Historik',
 	'wall-message-notify' => 'Meddela admin',
 	'wall-message-remove' => 'Ta bort',
 	'wall-message-rev-delete' => 'Revisionsradering',
+	'wall-message-fast-admin-delete-message' => 'VSTF-radera',
 	'wall-message-quote-button' => 'Citera',
 	'wall-message-elseswall' => '$1s vägg',
 	'wall-message-no-permission' => 'Du har inte behörighet att utföra denna åtgärd på meddelandet',
@@ -5446,6 +5451,7 @@ $messages['sv'] = array(
 	'wall-delete-reason' => 'Användare/administratörsåtgärd',
 	'wall-user-talk-page-archive-anchor' => 'Se arkiverad diskussionssida',
 	'wall-user-talk-archive-page-title' => 'Arkiv_för_användardiskussion',
+	'wall-ipb-disableusertalk' => 'Hindra denna användare från att göra inlägg på sin egen meddelandevägg under blockeringen',
 	'wall-action-all-confirm-cancel' => 'Avbryt',
 	'wall-action-all-confirm-notify' => 'Meddela en administratör',
 	'wall-action-remove-reply-title' => 'Ta bort detta svar',
@@ -5535,6 +5541,7 @@ Originalinlägget och din sammanfattning kommer fortfarande att visas i wikins h
 	'wall-deleted-msg-view' => '(Visa/återställ)',
 	'wall-recentchanges-new-message' => 'på <a href="$1">$2s vägg</a>',
 	'wall-recentchanges-edit' => '(redigerat meddelande)',
+	'wall-recentchanges-summary' => '($1)',
 	'wall-recentchanges-removed-thread' => 'tog bort tråden "[[$1|$2]]" från [[$3|$4s vägg]]',
 	'wall-recentchanges-removed-reply' => 'tog bort svar från "[[$1|$2]]" från [[$3|$4s vägg]]',
 	'wall-recentchanges-restored-thread' => 'återställde tråden "[[$1|$2]]" på [[$3|$4s vägg]]',
@@ -5564,7 +5571,7 @@ Originalinlägget och din sammanfattning kommer fortfarande att visas i wikins h
 	'wall-history-username-full' => '<a href="$3">$1</a> <a href="$3" class="username"><small>$2</small></a>',
 	'wall-history-username-short' => '<a href="$2">$1</a>',
 	'wall-history-title' => 'vägghistorik',
-	'wall-history-who-involved-wall-title' => 'Vem är inblandade på denna vägg?',
+	'wall-history-who-involved-wall-title' => 'Vem är inblandade?',
 	'wall-history-who-involved-thread-title' => 'Vem är inblandade i denna tråd?',
 	'wall-history-thread-created' => '$1 skapades av $2',
 	'wall-history-thread-removed' => '$1 togs bort $2',
@@ -5878,7 +5885,7 @@ Ang orihinal na pagpapaskil at ang buod mo ay lilitaw pa rin sa loob ng kasaysay
 	'wall-history-username-full' => '<a href="$3">$1</a> <a href="$3" class="username"><small>$2</small></a>',
 	'wall-history-username-short' => '<a href="$2">$1</a>',
 	'wall-history-title' => 'kasaysayan ng dingding',
-	'wall-history-who-involved-wall-title' => 'Sino ba ang kasangkot sa dingding na ito?',
+	'wall-history-who-involved-wall-title' => 'Sino ba ang kasangkot sa dingding na ito?', # Fuzzy
 	'wall-history-who-involved-thread-title' => 'Sino ba ang kasangkot sa sinulid na ito?',
 	'wall-history-thread-created' => 'Ang $1 ay nilikha ni $2',
 	'wall-history-thread-removed' => 'Ang $1 ay tinanggal ni $2',
@@ -6177,7 +6184,7 @@ $messages['uk'] = array(
 	'wall-recentchanges-edit' => '(Повідомлення було відредаговано)',
 	'wall-recentchanges-summary' => '($1)',
 	'wall-recentchanges-removed-thread' => 'видалене обговорення "[[$1|$2]]" зі [[$3|стіни $4]]',
-	'wall-recentchanges-removed-reply' => 'Відповідь з обговорення "[[ $1 | $2 ]]" на [[ $3 |стіні $4]] видалена.',
+	'wall-recentchanges-removed-reply' => 'Відповідь з обговорення "[[ $1 | $2 ]]" на [[ $3 |стіні $4]] видалена.', # Fuzzy
 	'wall-recentchanges-restored-thread' => 'Обговорення "[[$1|$2]]" зі [[$3|стіни $4]] відновлено',
 	'wall-recentchanges-restored-reply' => 'Відповідь з обговорення "[[$1|$2]]" зі [[$3|стіни $4]] відновлено',
 	'wall-recentchanges-deleted-thread' => 'Обговорення "[[$1|$2]]" зі [[$3|стіни $4]] видалено',
@@ -6299,7 +6306,7 @@ ___________________________________________<br />
  */
 $messages['vi'] = array(
 	'wall-no-title' => 'Không có tiêu đề',
-	'wall-message-loadmore' => 'Xem tất cả $1 {{PLURAL:$1|hồi âm|hồi âm}}',
+	'wall-message-loadmore' => 'Xem tất cả $1 {{PLURAL:$1|hồi âm|hồi âm}}', # Fuzzy
 	'wall-message-wall' => 'Tường tin nhắn',
 	'wall-message-wall-shorten' => 'tường',
 	'wall-message-unfollow' => 'Không theo dõi',
@@ -6413,7 +6420,7 @@ Các bản gốc và tóm tắt của bạn vẫn sẽ xuất hiện trong lịc
 	'wn-user3-reply-other-a-wall' => '$1 và những người khác trả lời tin nhắn của $3',
 	'wn-newmsg-onmywall' => '$1 đã để lại một tin nhắn mới trên tường của bạn',
 	'wn-newmsg' => 'Bạn đã để lại một tin nhắn mới trên tường của $1',
-	'wn-newmsg-on-followed-wall' => '$1 đã để lại một tin nhắn mới trên tường của $2.',
+	'wn-newmsg-on-followed-wall' => '$1 đã để lại một tin nhắn mới trên tường của $2.', # Fuzzy
 	'wn-admin-thread-deleted' => 'Luồng đã được gỡ bỏ khỏi tường của $1',
 	'wn-admin-reply-deleted' => 'Hồi âm đã được gỡ bỏ từ luồng trên tường của $1',
 	'wn-owner-thread-deleted' => 'Luồng đã được gỡ bỏ từ tường của bạn',
@@ -6460,7 +6467,7 @@ Các bản gốc và tóm tắt của bạn vẫn sẽ xuất hiện trong lịc
 	'wall-history-username-full' => '<a href="$3">$1</a> <a href="$3" class="username"><small>$2</small></a>',
 	'wall-history-username-short' => '<a href="$2">$1</a>',
 	'wall-history-title' => 'lịch sử tường',
-	'wall-history-who-involved-wall-title' => 'Ai đã tham gia trên tường này?',
+	'wall-history-who-involved-wall-title' => 'Ai đã tham gia trên tường này?', # Fuzzy
 	'wall-history-who-involved-thread-title' => 'Ai đã tham gia trong luồng này?',
 	'wall-history-thread-created' => '$1 được tạo bởi $2',
 	'wall-history-thread-removed' => '$1 đã bị dời bỏ bởi $2',
@@ -6546,7 +6553,7 @@ ___________________________________________<br />
  */
 $messages['wa'] = array(
 	'wall-no-title' => "Pont d' tite",
-	'wall-message-loadmore' => 'Vey {{PLURAL:$1|li response|totes les $1 responses}}',
+	'wall-message-loadmore' => 'Vey {{PLURAL:$1|li response|totes les $1 responses}}', # Fuzzy
 	'wall-message-wall' => 'Meur di messaedjes',
 	'wall-message-wall-shorten' => 'meur',
 	'wall-message-unfollow' => 'Èn pus shuve',
@@ -6640,7 +6647,7 @@ Li messaedje d' oridjinne eyet vosse rascourti seront todi veyåves dins l' istw
  */
 $messages['zh-hans'] = array(
 	'wall-no-title' => '无标题',
-	'wall-message-loadmore' => '查看所有$1条{{PLURAL:$1|回复|回复}}',
+	'wall-message-loadmore' => '查看所有$1条{{PLURAL:$1|回复|回复}}', # Fuzzy
 	'wall-message-wall' => '信息墙',
 	'wall-message-unfollow' => '取消关注',
 	'wall-message-undoremove' => '撤销',
@@ -6670,4 +6677,3 @@ $messages['zh-hans'] = array(
 	'mail-notification-html-greeting' => '嗨！$1,',
 	'prefs-email-wall-v2' => '信息墙',
 );
-

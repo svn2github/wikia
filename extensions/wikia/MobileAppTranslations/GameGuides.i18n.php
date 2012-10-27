@@ -11,7 +11,6 @@
 
 $messages = array();
 
-// Lang: en
 $messages['en'] = array(
 	'activityindicator-message' => 'Loading...',
 	
@@ -666,4 +665,3 @@ $messages['zh-hans'] = array(
 	'window-article-button-back' => '返回',
 	'searchview-button-back-article' => '返回条目',
 );
-

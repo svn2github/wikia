@@ -100,7 +100,8 @@ $messages['eu'] = array(
 	'imgplc-image' => 'Irudia',
 );
 
-/** Persian (فارسی) */
+/** Persian (فارسی)
+ */
 $messages['fa'] = array(
 	'imgplc-create' => 'افزودن تصویر',
 	'imgplc-placeholder' => 'مکان نگه‏دار',
@@ -438,4 +439,3 @@ $messages['zh-hans'] = array(
 	'imgplc-create' => '添加照片',
 	'imgplc-image' => '照片',
 );
-

@@ -361,4 +361,3 @@ $messages['zh-hans'] = array(
 	'interstitial-skip-ad' => '跳过这则广告',
 	'exitstitial-button' => '跳过这则广告',
 );
-

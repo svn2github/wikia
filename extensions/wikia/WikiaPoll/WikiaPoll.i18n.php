@@ -27,7 +27,8 @@ $messages['en'] = array(
 	'wikiamobile-wikiapoll-user-voted' => 'You voted for $1'
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'wikiapoll-desc' => '{{desc}}',
 	'wikiapoll-people-voted' => 'Parameters:
@@ -889,4 +890,3 @@ $messages['zh-hant'] = array(
 	'wikiapoll-error-duplicate' => '已存在同名的民調',
 	'wikiapoll-error-invalid-title' => '問題文本無效。',
 );
-

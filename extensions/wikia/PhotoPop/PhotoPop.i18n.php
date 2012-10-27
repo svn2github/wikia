@@ -349,7 +349,7 @@ $messages['fi'] = array(
 	'photopop-game-progress' => 'valokuvaa',
 	'photopop-game-finished' => 'valmis!',
 	'photopop-game-image-load-error' => 'Kuvan lataus epäonnistui. Yritä uudelleen.',
-	'photopop-game-loading-image' => 'Ladataan kuvaa...<br>Odota',
+	'photopop-game-loading-image' => 'Ladataan kuvaa...<br>Odota', # Fuzzy
 	'photopop-game-month-0' => 'Tammikuu',
 	'photopop-game-month-1' => 'Helmikuu',
 	'photopop-game-month-2' => 'Maaliskuu',
@@ -1066,7 +1066,7 @@ $messages['pt'] = array(
 	'photopop-game-outof' => 'de',
 	'photopop-game-progress' => 'imagens',
 	'photopop-game-finished' => 'finalizado!',
-	'photopop-game-loading-image' => 'A carregar imagem...<br>Aguarde',
+	'photopop-game-loading-image' => 'A carregar imagem...<br>Aguarde', # Fuzzy
 	'photopop-game-paused' => 'Jogo pausado',
 	'photopop-game-month-0' => 'Jan',
 	'photopop-game-month-1' => 'Fev',
@@ -1400,4 +1400,3 @@ $messages['zh-hans'] = array(
 	'photopop-game-month-11' => '12月',
 	'photopop-game-no-highscore' => '没有高比分',
 );
-

@@ -180,7 +180,8 @@ $messages['bh'] = array(
 	'editaccount-title' => 'विशेष: खाता सम्पादन',
 );
 
-/** Bhojpuri (भोजपुरी) */
+/** Bhojpuri (भोजपुरी)
+ */
 $messages['bho'] = array(
 	'editaccount' => 'खाता सम्पादन',
 	'editaccount-title' => 'विशेष: खाता सम्पादन',
@@ -249,7 +250,7 @@ $messages['ca'] = array(
 	'editaccount-log-entry-pass' => "contrasenya canviada de l'usuari $2",
 	'editaccount-log-entry-realname' => "canviat el nom real de l'usuari $2",
 	'editaccount-log-entry-close' => 'compte desactivat $2',
-	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Aquest compte ha estat desactivat.</div>',
+	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Aquest compte ha estat desactivat.</div>', # Fuzzy
 	'right-editaccount' => 'Edita les preferències dels altres usuaris',
 );
 
@@ -954,7 +955,7 @@ $messages['km'] = array(
 	'editaccount-log-entry-pass' => 'បានប្ដូរពាក្យសំងាត់សំរាប់អ្នកប្រើប្រាស់ $2',
 	'editaccount-log-entry-realname' => 'បានប្ដូរឈ្មោះពិតសំរាប់អ្នកប្រើប្រាស់ $2',
 	'editaccount-log-entry-close' => 'បានបិទគណនី $2',
-	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">គណនីនេះត្រូវបានបិទហើយ។</div>',
+	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">គណនីនេះត្រូវបានបិទហើយ។</div>', # Fuzzy
 	'right-editaccount' => 'កែប្រែចំណង់ចំណូលចិត្តរបស់អ្នកប្រើប្រាស់ដទៃ',
 );
 
@@ -1555,7 +1556,7 @@ $messages['pt-br'] = array(
 	'editaccount-log-entry-pass' => 'senha alterada para o usuário $2',
 	'editaccount-log-entry-realname' => 'nome real alterado para o usuário $2',
 	'editaccount-log-entry-close' => 'desabilitada a conta $2',
-	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Essa conta foi desabilitada.</div>',
+	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Essa conta foi desabilitada.</div>', # Fuzzy
 	'right-editaccount' => 'Editar outras preferências de usuário',
 );
 
@@ -1677,7 +1678,7 @@ $messages['sah'] = array(
 	'editaccount-log-entry-pass' => '$2 кыттааччы кирии тылын уларыппыт',
 	'editaccount-log-entry-realname' => '$2 кыттааччы дьиҥнээх аатын уларыппыт',
 	'editaccount-log-entry-close' => '$2 кыттааччы бэлиэтэниитин араарбыт',
-	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Бу аат араарыллыбыт.</div>',
+	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Бу аат араарыллыбыт.</div>', # Fuzzy
 	'right-editaccount' => 'Атын кыттааччылар туруорууларын уларытыы',
 );
 
@@ -1774,6 +1775,9 @@ $messages['sv'] = array(
 	'editaccount-success-email-blank' => 'Tog bort e-postadressen för kontot $1.',
 	'editaccount-success-pass' => 'Ändrade lösenordet för kontot $1.',
 	'editaccount-success-realname' => 'Ändrade riktigt namn för kontot $1.',
+	'editaccount-success-unsub' => 'Avprenumererade delen för kontot $1 har tagits bort.', # Fuzzy
+	'editaccount-success-disable' => 'Inaktiverade delen för kontot $1 har tagits bort.',
+	'editaccount-success-toggleadopt' => 'Ändring av statusen för adoptionsbehörigheter för kontot $1 lyckades.',
 	'editaccount-success-close' => 'Konto $1 har avaktiverats.',
 	'editaccount-error-email' => 'E-postadressen ändrades inte. Försök igen eller kontakta Tech Teamet.',
 	'editaccount-error-pass' => 'Lösenordet ändrades inte. Försök igen eller kontakta Tech Teamet.',
@@ -1854,7 +1858,7 @@ $messages['te'] = array(
 	'editaccount-nouser' => '"$1" అనే ఖాతా లేనే లేదు!',
 	'editaccount-labal-account-status' => 'ఖాతా స్థితి',
 	'editaccount-log' => 'వాడుకరి ఖాతాల చిట్టా',
-	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">ఈ ఖాతాని అచేతనం చేసారు.</div>',
+	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">ఈ ఖాతాని అచేతనం చేసారు.</div>', # Fuzzy
 );
 
 /** Tagalog (Tagalog)
@@ -1924,7 +1928,7 @@ $messages['tl'] = array(
  */
 $messages['tr'] = array(
 	'editaccount-submit-close' => 'Hesabı kapat',
-	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Bu hesap devre dışı bırakıldı.</div>',
+	'edit-account-closed-flag' => '<div style="border: 1px solid black; padding: 1em">Bu hesap devre dışı bırakıldı.</div>', # Fuzzy
 );
 
 /** Tatar (Cyrillic script) (татарча)
@@ -2083,4 +2087,3 @@ $messages['zh-hant'] = array(
 	'editaccount' => '編輯帳戶',
 	'editaccount-submit-account' => '管理帳戶',
 );
-

@@ -1872,4 +1872,3 @@ $messages['zh-hans'] = array(
 	'wikiaquiz-game-challenge' => '挑战您的朋友来参与！',
 	'wikiaquiz-game-mute' => '静音',
 );
-

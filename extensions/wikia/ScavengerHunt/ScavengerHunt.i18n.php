@@ -184,12 +184,8 @@ $messages['en'] = array(
 	'scavengerhunt-facebook-description' => 'Facebook sharing text',
 );
 
-/** Message documentation (Message documentation) */
-$messages['qqq'] = array(
-	'scavengerhunt-desc' => '{{desc}}',
-);
-
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'scavengerhunt-desc' => '{{desc}}',
 );
@@ -248,14 +244,14 @@ $messages['bg'] = array(
  */
 $messages['br'] = array(
 	'scavengerhunt-list-header-name' => "Anv ar c'hoari",
-	'scavengerhunt-list-header-is-enabled' => 'Gweredekaet ?',
+	'scavengerhunt-list-header-is-enabled' => 'Gweredekaet ?', # Fuzzy
 	'scavengerhunt-list-header-actions' => 'Oberoù',
 	'scavengerhunt-list-enabled' => 'Gweredekaet',
 	'scavengerhunt-list-disabled' => 'Diweredekaet',
 	'scavengerhunt-list-edit' => 'kemmañ',
 	'scavengerhunt-label-general' => 'Hollek',
 	'scavengerhunt-label-name' => 'Anv :',
-	'scavengerhunt-label-article-title' => 'Titl ar bajenn :',
+	'scavengerhunt-label-article-title' => 'Titl ar bajenn :', # Fuzzy
 	'scavengerhunt-label-article-hidden-image' => 'Skeudenn kuzhet :',
 	'scavengerhunt-button-add' => "Ouzhpennañ ur c'hoari",
 	'scavengerhunt-button-save' => 'Enrollañ',
@@ -469,7 +465,7 @@ $messages['de-formal'] = array(
  */
 $messages['diq'] = array(
 	'scavengerhunt-list-header-name' => 'Namey qayer',
-	'scavengerhunt-list-header-actions' => 'Kerdeni',
+	'scavengerhunt-list-header-actions' => 'Kerdışi',
 	'scavengerhunt-label-general' => 'Heran',
 	'scavengerhunt-label-name' => 'Name:',
 	'scavengerhunt-button-save' => 'Star ke',
@@ -2618,4 +2614,3 @@ $messages['zh-hans'] = array(
 	'scavengerhunt-entry-form-name' => '您的名字：',
 	'scavengerhunt-entry-form-email' => '您的电子邮件地址：',
 );
-

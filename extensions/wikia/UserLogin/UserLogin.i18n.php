@@ -161,6 +161,7 @@ $messages['qqq'] = array(
 * $3 is the temporary password value. Content-wise, it is exactly the same as templated html version, but this is a complete stand-alone.',
 	'userlogin-email-footer-line1' => 'Footer line 1 in the standard Wikia email template.',
 	'userlogin-email-footer-line2' => 'Footer line 2 in the standard Wikia email template.',
+	'userlogin-email-footer-line3' => 'Footer line 3 in the standard Wikia email template. The links are space (&nbsp) separated pointing to social networks. Leave this blank if social network is unknown.',
 	'userlogin-provider-or' => 'Word shown between login form and FB connect button',
 	'userlogin-provider-tooltip-facebook' => 'Tooltip when hovering over facebook connect button in login page or context.',
 	'userlogin-provider-tooltip-facebook-signup' => 'Tooltip when hovering over facebook connect button in signup page or context.',
@@ -795,7 +796,7 @@ $messages['it'] = array(
 <br/><br/>
 Se non hai richiesto una nuova password, non preoccuparti! Il tuo account è al sicuro. Puoi ignorare questa email e continuare a effettuare il login su Wikia con la tua vecchia password.
 <br /><br />
-Domande o dubbi? Sentiti libero di contattarci.',
+Domande o dubbi? Sentiti libero di contattarci.', # Fuzzy
 	'userlogin-password-email-signature' => 'Wikia Community Support',
 	'userlogin-password-email-body' => 'Ciao $2,
 
@@ -1473,7 +1474,7 @@ $messages['sr-ec'] = array(
 	'userlogin-error-acct_creation_throttle_hit' => 'Нажалост, ова ИП адреса је направила превише налога за данас. Покушајте касније.',
 	'userlogin-error-resetpass_forbidden' => 'Лозинка не може да се мења',
 	'userlogin-error-blocked-mailpassword' => 'Не можете да захтевате нову лозинку јер је ову ИП адресу блокирала Викија.',
-	'userlogin-error-throttled-mailpassword' => 'Већ смо вам послали подсетник за лозинку на овај налог у {{PLURAL:$1|последњих сат времена|последња $1 сата|у последњих $1 сати}}. Проверите е-пошту.',
+	'userlogin-error-throttled-mailpassword' => 'Већ смо вам послали подсетник за лозинку на овај налог у {{PLURAL:$1|последњих сат времена|последња $1 сата|у последњих $1 сати}}. Проверите е-пошту.', # Fuzzy
 	'userlogin-error-mail-error' => 'Дошло је до проблема при слању поруке. Молимо вас, [[Special:Contact/general|контактирајте с нама]].',
 	'userlogin-password-email-sent' => 'Нова лозинка је послата на е-адресу корисника $1.',
 	'userlogin-error-unconfirmed-user' => 'Нажалост, нисте потврдили своју е-адресу. Најпре треба да је потврдите.',
@@ -1787,7 +1788,7 @@ $messages['uk'] = array(
 <br><br>
 Якщо ви не запитували новий пароль, забийте! Ваш обліковий запис є надійним і безпечним. Ви можете ігнорувати цей лист і продовжити вхід до Wikia під старим пароль.
 <br><br>
-Питання або сумніви? Звертайтеся до нас.',
+Питання або сумніви? Звертайтеся до нас.', # Fuzzy
 	'userlogin-password-email-signature' => 'Команда Wikia',
 	'userlogin-password-email-body' => 'Вітаю, $2,
 
@@ -1961,4 +1962,3 @@ _______________________________________
 	'wikiamobile-sendpassword-label' => '发送新密码',
 	'wikiamobile-facebook-connect-fail' => '对不起，您的Facebook帐户现在未链接到WIkia帐户。',
 );
-

@@ -418,7 +418,7 @@ $messages['ksh'] = array(
 	'globalwatchlist-digest-email-subject' => 'Zosammefassong vun der Woch',
 	'globalwatchlist-blog-page-title-comment' => '$1 ($2 {{PLURAL:$2|Aanmerkong|Aanmerkonge|Aanmerkonge}})',
 	'globalwatchlist-no-page-found' => 'Kein Sigg jefonge',
-	'globalwatchlist-no-blog-page-found' => 'Kein Sigg vun enem <i lang="en">blog</i> jefonge.',
+	'globalwatchlist-no-blog-page-found' => 'Kein Sigg vun enem <i lang="en">blog</i> jefonge.', # Fuzzy
 );
 
 /** Luxembourgish (Lëtzebuergesch)
@@ -874,4 +874,3 @@ $messages['zh-hans'] = array(
 	'globalwatchlist-digest-email-subject' => '每周文摘',
 	'globalwatchlist-no-page-found' => '未找到页面。',
 );
-

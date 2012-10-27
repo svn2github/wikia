@@ -588,4 +588,3 @@ $messages['zh-hans'] = array(
 	'unsubscribe-working-done' => '完成。',
 	'unsubscribe-preferences-toggle' => '不订阅Wikia的所有邮件（取消选定这个方块才能进入下列选项）',
 );
-

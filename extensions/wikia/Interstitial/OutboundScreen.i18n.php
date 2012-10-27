@@ -372,4 +372,3 @@ $messages['uk'] = array(
 	'outbound-screen-login-text' => '[[Special:UserLogin/signup|Створіть новий обліковий запис]] або [[Special:UserLogin|увійдіть в існуючий обліковий запис]], щоб пропустити цю сторінку в подальшому.',
 	'outbound-screen-you-are-leaving' => 'Зараз ви залишаєте Wikia.',
 );
-

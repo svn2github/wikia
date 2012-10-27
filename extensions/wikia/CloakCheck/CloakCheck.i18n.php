@@ -717,4 +717,3 @@ $messages['zh-hans'] = array(
 	'cloakcheck-process-emailconf-yes' => '电子邮件地址已确认。',
 	'cloakcheck-process-edits-no' => '用户编辑数不足。',
 );
-

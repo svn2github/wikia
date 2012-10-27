@@ -143,8 +143,8 @@ $messages['qqq'] = array(
 	'create-blog-post-recent-listing-log' => 'Edit summary, maybe.',
 	'create-blog-empty-article-log' => 'Edit summary',
 	'create-blog-listing-preview' => 'This is an H2 level header above a preview.',
-	'create-blog-listing-matches-info' => 'Looks like this message may have a leading number. Please check. If so, integrate in message.',
-	'blog-last-edited' => 'If $1 is a time stamp, split date and time to $2 and $3.',
+	'create-blog-listing-matches-info' => 'Looks like this message may have a leading number. Please check. If so, integrate in message.', # Fuzzy
+	'blog-last-edited' => 'If $1 is a time stamp, split date and time to $2 and $3.', # Fuzzy
 	'blog-added' => 'This is the possible value of $CHANGEDORCREATED in {{msg-mw|enotif_subject}} and {{msg-mw|enotif_body|notext=1}}.',
 	'blog-edited' => 'This is a possible value of $CHANGEDORCREATED in {{msg-mw|enotif_subject}} and {{msg-mw|enotif_body|notext=1}}.',
 	'blog-comments' => '{{Identical|Comment}}',
@@ -647,7 +647,8 @@ $messages['ca'] = array(
 	'blogs-searchprofile' => 'Blocs',
 );
 
-/** Sorani Kurdish (کوردی) */
+/** Sorani Kurdish (کوردی)
+ */
 $messages['ckb'] = array(
 	'blog-comment-delete' => 'سڕینەوە',
 );
@@ -878,6 +879,7 @@ $messages['de-formal'] = array(
 
 /** Zazaki (Zazaki)
  * @author Erdemaslancan
+ * @author Mirzali
  */
 $messages['diq'] = array(
 	'createblogpage' => 'Blog vırazê',
@@ -899,7 +901,7 @@ $messages['diq'] = array(
 	'blog-comment-history' => 'werenayış',
 	'blog-comment-edit' => 'bıvurne',
 	'blog-avatar-preferences-title' => 'Avatar',
-	'blog-refresh-label' => 'Anewe ke',
+	'blog-refresh-label' => 'Newe ke',
 	'blog-listing-created' => 'Listeyê blog de pela vıraziya',
 	'blog-userblog' => "Blogê $1'i",
 	'blog-fromsitename' => '$1 ra',
@@ -907,7 +909,8 @@ $messages['diq'] = array(
 	'blog-comment-sending' => 'Rışêno...',
 );
 
-/** Ewe (eʋegbe) */
+/** Ewe (eʋegbe)
+ */
 $messages['ee'] = array(
 	'blog-comment-delete' => 'tutui',
 );
@@ -1140,8 +1143,10 @@ $messages['fa'] = array(
 	'blog-rc-comments' => 'نظرات وبلاگ',
 	'blog-comments-new' => 'نظرات جدید وبلاگ',
 	'blog-comments-save' => 'نظرات ذخیره شده در وبلاگ',
+	'blog-comments-label' => 'اظهارنظر',
 	'blog-voting-label' => 'رای‌گیری',
 	'blog-comments-login' => 'برای نظر دادن <a href="$1" rel="nofollow">به سامانه وارد شوید</a>.',
+	'blog-comments-dsc' => 'جدیدترین ابتدا بیاید',
 	'blog-comments-anonymous' => 'کاربر گمنام',
 	'blog-comment-delete' => 'حذف',
 	'blog-comment-hide' => 'نهفتن',
@@ -1158,13 +1163,21 @@ $messages['fa'] = array(
 	'blog-refresh-label' => 'بازخوانی',
 	'blog-widgets-label' => 'جعبۀ ابزار',
 	'blog-listing-zero-other' => 'این کاربر هنوز پست جدیدی در وبلاگ خود ننوشته‌است!',
+	'blog-listing-created' => 'صفحۀ فهرست وبلاگی که ایجاد شده',
 	'blog-userblog' => 'وبلاگ $1',
 	'blog-fromsitename' => 'از $1',
 	'blogs-reportproblem' => 'گزارش اشکال',
 	'blogs-comment-hidden' => 'نظر پنهان شده‌است.',
+	'right-blog-comments-delete' => 'حذف نظرهای موجود در مقاله‌های وبلاگ',
+	'right-blog-articles-edit' => 'ویرایش مطالب وبلاگ',
+	'right-blog-articles-move' => 'جابجاکردن مقاله‌های وبلاگ',
 	'blogs-undeleted-comment' => 'نظر برای صفحۀ وبلاگ $1 احیاء شد',
 	'blogs-recent-url-text' => 'پست‌های اخیر وبلاگ',
+	'blog-movepage-badtitle' => 'عنوان پست وبلاگ نامعتبر می‌باشد',
+	'blog-comment-sending' => 'در حال ارسال...',
 	'blog-by' => '$1 توسط $2',
+	'blogs-searchprofile' => 'وبلاگ‌ها',
+	'blogs-searchprofile-tooltip' => 'جستجو در فهرست‌ها و پست‌های وبلاگ',
 );
 
 /** Finnish (suomi)
@@ -1538,7 +1551,8 @@ Cree páxinas de listas de blogues para categorías como "Barack Obama", "Galici
 	'blogs-searchprofile-tooltip' => 'Procurar nos artigos e listas de blogue',
 );
 
-/** Hausa (Hausa) */
+/** Hausa (Hausa)
+ */
 $messages['ha'] = array(
 	'blog-comment-delete' => 'soke',
 );
@@ -2181,7 +2195,7 @@ $messages['ja'] = array(
 	'create-blog-post-title-edit' => 'ブログの記事の編集',
 	'create-blog-form-title' => 'ブログ機能とは?',
 	'create-blog-form-post-text' => '記事の本文',
-	'create-blog-form-info' => 'ブログ形式での投稿は、あなたがコミュニティによって編集されたくないと考えるコンテンツを書くのに適しています。投稿された記事は、「ブログの記事」というタグに基づいてブログのリストページに集約されます。それぞれの記事に対して評価機能とコメント機能を有効にするかどうかを選択できます。',
+	'create-blog-form-info' => 'ブログ形式での投稿は、あなたがコミュニティによって編集されたくないと考えるコンテンツを書くのに適しています。投稿された記事は、「ブログの記事」というタグに基づいてブログのリストページに集約されます。それぞれの記事に対して評価機能とコメント機能を有効にするかどうかを選択できます。', # Fuzzy
 	'create-blog-form-post-title' => '記事のタイトル',
 	'create-blog-empty-title-error' => '記事のタイトルを入力してください',
 	'create-blog-empty-post-error' => '記事の本文が空です',
@@ -3507,11 +3521,11 @@ Crie páginas de listagem de blogues para categorias, tais como "Barack Obama" o
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author 555
  * @author Aristóbulo
  * @author Giro720
  * @author Jesielt
  * @author Luckas Blade
+ * @author 555
  */
 $messages['pt-br'] = array(
 	'createblogpage' => 'Criar blog',
@@ -4780,4 +4794,3 @@ $messages['zh-hant'] = array(
 	'blog-movepage-badtitle' => '無效的部落格文章標題。',
 	'blog-comment-sending' => '正在發送...',
 );
-

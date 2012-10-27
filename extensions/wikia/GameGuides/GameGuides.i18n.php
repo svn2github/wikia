@@ -22,7 +22,8 @@ $messages['en'] = array(
 	'wikiagameguides-content-duplicate-entry' => 'This value is duplicated'
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'wikiagameguides-desc' => 'Wikia Game Guides is the name of a product, do not translate on a per-word basis',
 );
@@ -55,8 +56,8 @@ $messages['ca'] = array(
 $messages['cs'] = array(
 	'wikiagameguides-desc' => 'Moduly mobilní aplikace Wikia Herní manuály',
 	'wikiagameguides-content-category' => 'Kategorie',
-	'wikiagameguides-content-tag' => 'Tag',
-	'wikiagameguides-content-name' => 'Jméno',
+	'wikiagameguides-content-tag' => 'Tag', # Fuzzy
+	'wikiagameguides-content-name' => 'Jméno', # Fuzzy
 	'wikiagameguides-content-add' => 'Přidat',
 	'wikiagameguides-content-save' => 'Uložit',
 	'wikiagameguides-content-category-error' => 'Kategorie neexistuje.',
@@ -335,8 +336,11 @@ $messages['sv'] = array(
 	'wikiagameguides-preview-description' => 'Detta är bara en förhandsgranskning av hur sidor skulle se ut i appen Wikia Spelguider.',
 	'wikiagameguides-content-title' => 'Verktyg för innehållshantering i Wikia Spelguider',
 	'wikiagameguides-content-category' => 'Kategori',
-	'wikiagameguides-content-tag' => 'Tagg',
-	'wikiagameguides-content-name' => 'Namn',
+	'wikiagameguides-content-category-desc' => 'Ange kategorierna på din wiki som du vill inkludera i Spelguider.',
+	'wikiagameguides-content-tag' => 'Kategoritagg (valfri)',
+	'wikiagameguides-content-tag-desc' => 'Organisera dina spelkategorier genom att ge dem taggar.',
+	'wikiagameguides-content-name' => 'Namn på spelguiden (valfri)',
+	'wikiagameguides-content-name-desc' => 'Byt namn på wikins kategorier som du vill att de ska visas på Spelguider',
 	'wikiagameguides-content-add' => 'Lägg till',
 	'wikiagameguides-content-save' => 'Spara',
 	'wikiagameguides-content-category-error' => 'Kategorin finns inte',
@@ -356,4 +360,3 @@ $messages['tl'] = array(
 $messages['tt-cyrl'] = array(
 	'wikiagameguides-desc' => 'Wikia Game Guides мобиль кушымтасы өчен модульләр',
 );
-

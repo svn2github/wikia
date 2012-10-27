@@ -240,4 +240,3 @@ $messages['vi'] = array(
 	'wikiaconfirmemail-subheading' => 'Đăng nhập bằng tên người dùng và mật khẩu của bạn để chúng tôi biết rằng bạn đã nhận được email.',
 	'wikiaconfirmemail-username' => 'Tên người dùng',
 );
-

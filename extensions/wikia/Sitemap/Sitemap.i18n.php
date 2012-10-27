@@ -83,7 +83,8 @@ $messages['gl'] = array(
 	'sitemap-desc' => 'Xerar mapas do sitio para o wiki',
 );
 
-/** Hebrew (עברית) */
+/** Hebrew (עברית)
+ */
 $messages['he'] = array(
 	'sitemap-desc' => 'יצירת מפות אתרים לאתר הוויקי בו במקום',
 );
@@ -284,4 +285,3 @@ $messages['vi'] = array(
 $messages['zh-hans'] = array(
 	'sitemap-desc' => '联机生成站点地图',
 );
-

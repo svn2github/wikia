@@ -49,7 +49,7 @@ $messages['bg'] = array(
  */
 $messages['br'] = array(
 	'batchuserrights' => 'Gwirioù oberour dre strolladoù',
-	'batchuserrights-desc' => "Aotreañ a ra da ouzhpennañ unan pe meur a implijer d'ur strollad en un obererezh hepken",
+	'batchuserrights-desc' => "Aotreañ a ra da ouzhpennañ unan pe meur a implijer d'ur strollad en un obererezh hepken", # Fuzzy
 	'batchuserrights-names' => "Anvioù implijer da ouzhpennañ d'ar strollad-mañ (unan dre linenn) :",
 	'batchuserrights-single-progress-update' => '{{PLURAL:$1|Strollad|Strolladoù}} ouzhpennet da <strong>$2</strong>.',
 	'batchuserrights-add-groups' => "Ouzhpennañ {{PLURAL:$1|un implijer|$1 implijer}} d'ar {{PLURAL:$2|strollad|strolladoù}}-mañ : <strong>$3</strong>.",
@@ -60,7 +60,7 @@ $messages['br'] = array(
  * @author CERminator
  */
 $messages['bs'] = array(
-	'batchuserrights-desc' => 'Omogućava dodavanje jednog ili više korisnika u grupu putem jedne akcije',
+	'batchuserrights-desc' => 'Omogućava dodavanje jednog ili više korisnika u grupu putem jedne akcije', # Fuzzy
 	'batchuserrights-userload-error' => "Nisam mogao učitati korisnika \"'''\$1'''\".",
 );
 
@@ -373,7 +373,7 @@ Será permitida a execução do resto da página apenas para que possa verificar
  */
 $messages['pt-br'] = array(
 	'batchuserrights' => 'Direitos de usuários em lote',
-	'batchuserrights-desc' => 'Permite adicionar um ou mais usuários a um grupo de uma só vez',
+	'batchuserrights-desc' => 'Permite adicionar um ou mais usuários a um grupo de uma só vez', # Fuzzy
 	'batchuserrights-names' => 'Nomes de usuários a adicionar a este grupo (um por linha):',
 	'batchuserrights-intro' => 'Esta página permite atribuir um grupo a vários usuários ao mesmo tempo. 
 Por razões de segurança, a lista dos grupos assim atribuíveis é definida na configuração da extensão e não pode ser alterada dentro da wiki.
@@ -409,6 +409,7 @@ $messages['ru'] = array(
  * @author WikiPhoenix
  */
 $messages['sv'] = array(
+	'batchuserrights' => 'Bearbeta användarrättigheter satsvis',
 	'batchuserrights-desc' => 'Gör det möjligt att lägga till en eller flera användare till en grupp i en handling',
 	'batchuserrights-names' => 'Användarnamn som ska läggas till denna grupp (en per rad):',
 	'batchuserrights-intro' => 'Denna sida låter dig lägga till en grupp till flera användare på en gång.
@@ -466,4 +467,3 @@ $messages['zh-hans'] = array(
 	'batchuserrights-names' => '添加至该组的用户（每行一个）：',
 	'batchuserrights-userload-error' => "无法加载用户\"'''\$1'''\"。",
 );
-

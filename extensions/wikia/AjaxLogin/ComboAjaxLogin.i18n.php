@@ -170,6 +170,14 @@ Zkuste to znova nebo [[Special:Contact|nás kontaktujte]].',
 	'comboajaxlogin-ajaxerror' => 'Wikia neodpovídá. Zkontrolujte připojení k síti.',
 );
 
+/** Danish (dansk)
+ * @author Sarrus
+ */
+$messages['da'] = array(
+	'comboajaxlogin-createlog' => 'Log på eller opret en konto',
+	'comboajaxlogin-actionmsg' => 'For at udføre denne handling, skal du først logge på eller oprette en konto',
+);
+
 /** German (Deutsch)
  * @author Diebuche
  * @author LWChris
@@ -1095,4 +1103,3 @@ $messages['zh-hans'] = array(
 <br />
 （如果您已拥有一个账户，则可以正常<a href="#">登陆</a>，但不能做出任何编辑。）</p>',
 );
-

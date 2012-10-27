@@ -143,15 +143,6 @@ $messages['qqq'] = array(
 	'action-phalanx' => '{{doc-action|phalanx}}',
 );
 
-/** ꢱꣃꢬꢵꢯ꣄ꢡ꣄ꢬꢵ (ꢱꣃꢬꢵꢯ꣄ꢡ꣄ꢬꢵ)
- * @author MooRePrabu
- */
-$messages['saz'] = array(
-	'phalanx-type-user' => 'ꢮꢮ꣄ꢬꢸꢥꢵꢬ꣄',
-	'phalanx-label-filter' => 'ꢏꢜ꣄ꢗꢶ',
-	'phalanx-stats-table-language' => 'ꢩꢵꢰꣁ',
-);
-
 /** Arabic (العربية)
  * @author OsamaK
  */
@@ -553,7 +544,7 @@ $messages['fi'] = array(
 	'phalanx-legend-listing' => 'Tällä hetkellä käytetyt suodattimet',
 	'phalanx-unblock-message' => 'Estotunnisteen #$1 poisto onnistui',
 	'phalanx-user-block-reason-exact' => 'Tämä käyttäjätunnus tai IP-osoite on estetty ilkivallan tai muunlaisen häiriköinnin vuoksi.
-Jos tämä on mielestäsi virhe, ole hyvä ja [[Special:Contact|ota yhteyttä Wikiaan]].',
+Jos tämä on mielestäsi virhe, ole hyvä ja [[Special:Contact|ota yhteyttä Wikiaan]].', # Fuzzy
 );
 
 /** French (français)
@@ -2107,6 +2098,15 @@ $messages['ru'] = array(
 	'right-phalanxemailblock' => 'Можно обратиться, просмотреть и управлять e-mail на основе блоков',
 );
 
+/** ꢱꣃꢬꢵꢯ꣄ꢡ꣄ꢬꢵ (ꢱꣃꢬꢵꢯ꣄ꢡ꣄ꢬꢵ)
+ * @author MooRePrabu
+ */
+$messages['saz'] = array(
+	'phalanx-type-user' => 'ꢮꢮ꣄ꢬꢸꢥꢵꢬ꣄',
+	'phalanx-label-filter' => 'ꢏꢜ꣄ꢗꢶ',
+	'phalanx-stats-table-language' => 'ꢩꢵꢰꣁ',
+);
+
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  */
@@ -2450,4 +2450,3 @@ $messages['zh-hans'] = array(
 	'phalanx-stats-table-wiki-name' => '维基名字',
 	'phalanx-stats-table-wiki-url' => '维基 URL',
 );
-

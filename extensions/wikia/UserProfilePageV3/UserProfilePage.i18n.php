@@ -155,7 +155,8 @@ $messages['qqq'] = array(
 	'user-identity-remove-fail' => 'appears in alert box when there ware some when removing the avatar',
 );
 
-/** Arabic (العربية) */
+/** Arabic (العربية)
+ */
 $messages['ar'] = array(
 	'useravatar-log' => 'سجل تغييرات الصور الرمزية',
 	'blog-avatar-changed-log' => 'أضاف أو غير الصورة الرمزية',
@@ -300,7 +301,7 @@ $messages['ca'] = array(
 	'user-identity-box-fb-prefs' => "Preferències d'usuari",
 	'user-identity-box-avatar-error-nofile' => 'Error: No hi ha avatar arxiu trobat per carregar',
 	'user-identity-box-avatar-error-cantwrite' => "Error: No s'ha pogut escriure al directori temporal",
-	'user-identity-box-avatar-error-size' => 'Error: Avatar fitxer és massa gran (max  $1 KB)',
+	'user-identity-box-avatar-error-size' => 'Error: Avatar fitxer és massa gran (max  $1 KB)', # Fuzzy
 	'user-identity-box-avatar-error' => 'Error: Hi va haver error intern mentre es desava avatar',
 	'userprofilepage-lightbox-about-me-cancel' => 'Cancel·la',
 	'userprofilepage-lightbox-about-me-save' => 'Desa, he acabat',
@@ -412,6 +413,7 @@ $messages['cs'] = array(
 /** German (Deutsch)
  * @author Alphakilo
  * @author Geitost
+ * @author Metalhead64
  * @author PtM
  * @author SVG
  * @author Sebastian Wallroth
@@ -467,6 +469,7 @@ $messages['de'] = array(
 	'user-identity-box-group-vstf' => 'VSTF',
 	'user-identity-box-group-authenticated' => 'Bestätigt',
 	'user-identity-box-group-council' => 'Council',
+	'user-identity-box-group-adminmentor' => 'Administratorenmentor',
 	'user-identity-box-zero-state-location' => 'Standort',
 	'user-identity-box-zero-state-birthday' => 'Geburtstag',
 	'user-identity-box-zero-state-gender' => 'Geschlecht',
@@ -534,6 +537,7 @@ $messages['de-ch'] = array(
 
 /** Zazaki (Zazaki)
  * @author Erdemaslancan
+ * @author Mirzali
  */
 $messages['diq'] = array(
 	'userprofilepage-edit-modal-header' => 'Profili bıvurnê',
@@ -560,7 +564,7 @@ $messages['diq'] = array(
 	'user-identity-box-zero-state-website' => 'Websitey me',
 	'user-identity-box-about-me' => 'Heqtê me',
 	'user-identity-box-avatar' => 'Avatar',
-	'user-identity-box-about-fav-wikis-refresh' => 'Anewe ke',
+	'user-identity-box-about-fav-wikis-refresh' => 'Newe ke',
 	'userprofilepage-lightbox-about-me-cancel' => 'Bıterkne',
 	'userprofilepage-lightbox-about-me-save' => 'Star bı, Mı ke qeyd',
 	'userprofilepage-closing-popup-cancel' => 'Bıterkne',
@@ -857,6 +861,7 @@ $messages['fr'] = array(
 	'user-identity-box-group-vstf' => 'VSTF',
 	'user-identity-box-group-authenticated' => 'Vérifié',
 	'user-identity-box-group-council' => 'Conseiller',
+	'user-identity-box-group-adminmentor' => "Tuteur d'administration",
 	'user-identity-box-zero-state-location' => 'Localisation',
 	'user-identity-box-zero-state-birthday' => 'Anniversaire',
 	'user-identity-box-zero-state-gender' => 'Sexe',
@@ -969,6 +974,7 @@ $messages['gl'] = array(
 	'user-identity-box-group-vstf' => 'Voluntario da forza de loita contra o spam',
 	'user-identity-box-group-authenticated' => 'Autenticado',
 	'user-identity-box-group-council' => 'Conselleiro',
+	'user-identity-box-group-adminmentor' => 'Mentor de administradores',
 	'user-identity-box-zero-state-location' => 'Localización',
 	'user-identity-box-zero-state-birthday' => 'Aniversario',
 	'user-identity-box-zero-state-gender' => 'Sexo',
@@ -1140,7 +1146,8 @@ $messages['hu'] = array(
 	'user-identity-remove-fail' => 'Hiba történt az avatar eltávolítása közben!',
 );
 
-/** Armenian (Հայերեն) */
+/** Armenian (Հայերեն)
+ */
 $messages['hy'] = array(
 	'blog-avatar-changed-log' => 'ավելացրել է կամ փոխել է ավատարը',
 );
@@ -1265,7 +1272,8 @@ $messages['it'] = array(
 	'blog-avatar-changed-log' => '(Avatar aggiunto o modificato)',
 );
 
-/** Japanese (日本語) */
+/** Japanese (日本語)
+ */
 $messages['ja'] = array(
 	'useravatar-log' => 'アバター記録',
 	'blog-avatar-changed-log' => 'アバターが追加・変更されました',
@@ -1411,6 +1419,7 @@ $messages['mk'] = array(
 	'user-identity-box-group-vstf' => 'Доброволна работна група за спам',
 	'user-identity-box-group-authenticated' => 'Заверени',
 	'user-identity-box-group-council' => 'Советник',
+	'user-identity-box-group-adminmentor' => 'Администраторски ментор',
 	'user-identity-box-zero-state-location' => 'Место',
 	'user-identity-box-zero-state-birthday' => 'Роденден',
 	'user-identity-box-zero-state-gender' => 'Пол',
@@ -1523,6 +1532,7 @@ $messages['ms'] = array(
 	'user-identity-box-group-vstf' => 'Pasukan Petugas Spam Sukarelawan',
 	'user-identity-box-group-authenticated' => 'Disahkan',
 	'user-identity-box-group-council' => 'Ahli Majlis',
+	'user-identity-box-group-adminmentor' => 'Pembimbing Pentadbir',
 	'user-identity-box-zero-state-location' => 'Lokasi',
 	'user-identity-box-zero-state-birthday' => 'Tarikh Lahir',
 	'user-identity-box-zero-state-gender' => 'Jantina',
@@ -1635,6 +1645,7 @@ $messages['nb'] = array(
 	'user-identity-box-group-vstf' => 'Frivillig spambekjempelsesstyrke',
 	'user-identity-box-group-authenticated' => 'Autentisert',
 	'user-identity-box-group-council' => 'Rådgiver',
+	'user-identity-box-group-adminmentor' => 'Administratormentor',
 	'user-identity-box-zero-state-location' => 'Sted',
 	'user-identity-box-zero-state-birthday' => 'Bursdag',
 	'user-identity-box-zero-state-gender' => 'Kjønn',
@@ -1875,6 +1886,7 @@ $messages['pl'] = array(
 	'user-identity-box-group-vstf' => 'VSTF',
 	'user-identity-box-group-authenticated' => 'Autoryzowany',
 	'user-identity-box-group-council' => 'Council',
+	'user-identity-box-group-adminmentor' => 'Mentor',
 	'user-identity-box-zero-state-location' => 'Lokalizacja',
 	'user-identity-box-zero-state-birthday' => 'Data urodzenia',
 	'user-identity-box-zero-state-gender' => 'Płeć',
@@ -1933,7 +1945,8 @@ $messages['pl'] = array(
 	'user-identity-remove-fail' => 'Wystąpił błąd podczas usuwania avatara!',
 );
 
-/** Piedmontese (Piemontèis) */
+/** Piedmontese (Piemontèis)
+ */
 $messages['pms'] = array(
 	'useravatar-log' => "Registr dj'avatar ëd j'utent",
 	'blog-avatar-changed-log' => 'Avatar giontà o cangià',
@@ -2345,6 +2358,7 @@ $messages['sv'] = array(
 	'user-identity-box-group-vstf' => 'Frivillig spambekämpningsstyrka',
 	'user-identity-box-group-authenticated' => 'Autentiserad',
 	'user-identity-box-group-council' => 'Rådgivare',
+	'user-identity-box-group-adminmentor' => 'Administratörsmentor',
 	'user-identity-box-zero-state-location' => 'Plats',
 	'user-identity-box-zero-state-birthday' => 'Födelsedag',
 	'user-identity-box-zero-state-gender' => 'Kön',
@@ -2580,7 +2594,7 @@ $messages['uk'] = array(
 	'user-identity-box-invalid-fb-id-error' => 'Невірний ID Facebook',
 	'user-identity-box-fb-prefs' => 'Налаштування користувача',
 	'user-identity-box-avatar-error-nofile' => 'Помилка: файл для завантаження аватара не знайдено',
-	'user-identity-box-avatar-error-size' => 'Помилка: файл для аватара завеликий (не більше $1 КБ)',
+	'user-identity-box-avatar-error-size' => 'Помилка: файл для аватара завеликий (не більше $1 КБ)', # Fuzzy
 	'userprofilepage-lightbox-about-me-cancel' => 'Скасувати',
 	'userprofilepage-lightbox-about-me-save' => 'Завершити, готово',
 	'user-identity-box-saving-internal-error' => 'Зберегти дані учасника не вдалося - внутрішня помилка',
@@ -2824,4 +2838,3 @@ $messages['zh-hant'] = array(
 	'blog-avatar-changed-log' => '添加或更改頭像',
 	'blog-avatar-removed-log' => '刪除 $1 的頭像',
 );
-

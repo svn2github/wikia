@@ -182,14 +182,14 @@ $messages['af'] = array(
  * @author Malhargan
  */
 $messages['ar'] = array(
-	'chat-desc' => '[[دردشة : خاصة  | دردشة مباشرة]]',
+	'chat-desc' => '[[دردشة : خاصة  | دردشة مباشرة]]', # Fuzzy
 	'chat-no-login' => 'يجب تسجيل الدخول إلى الدردشة.',
 	'chat-no-login-text' => 'يرجى تسجيل الدخول للمحادثة.',
-	'chat-default-topic' => 'مرحبا بكم في دردشة SAR4',
+	'chat-default-topic' => 'مرحبا بكم في دردشة SAR4', # Fuzzy
 	'chat-user-joined' => '$1 انضمت إلى الدردشة.',
 	'chat-user-parted' => '$1 تركت الدردشة.',
-	'chat-user-blocked' => 'SAR4 حظر SAR8 .',
-	'chat-user-allow' => 'SAR4 سمحت SAR8 .',
+	'chat-user-blocked' => 'SAR4 حظر SAR8 .', # Fuzzy
+	'chat-user-allow' => 'SAR4 سمحت SAR8 .', # Fuzzy
 );
 
 /** Asturian (asturianu)
@@ -295,14 +295,14 @@ $messages['br'] = array(
 	'chat-err-invalid-username-chatmod' => 'Fazi : Dibosubl eo kavout an implijer "$1"',
 	'chat-you-are-banned' => 'Fazi aotreoù.',
 	'chat-you-are-banned-text' => "Berzet eo bet ar flap ouzhoc'h.
-Ma soñj deoc'h ez eo dre fazi pe mar fell deoc'h e vefe distroet war an diviz e c'hallit mont e darempred gant ur merour.",
+Ma soñj deoc'h ez eo dre fazi pe mar fell deoc'h e vefe distroet war an diviz e c'hallit mont e darempred gant ur merour.", # Fuzzy
 	'chat-room-is-not-on-this-wiki' => "Evit doare n'eus ket eus ar gaoz a glaskit kevreañ outi war ar wiki-mañ.",
 	'chat-kick-log-reason' => "Skarzhet eus ar flap er wiki-mañ gant $1.
 Kit e darempred ganto da c'houzout hiroc'h.",
 	'chat-live2' => 'Fla war-eeun !',
 	'chat-start-a-chat' => 'Kregiñ gant ar Flap',
 	'chat-join-the-chat' => 'Mont er Flap',
-	'chat-edit-count' => '$1 Kemm',
+	'chat-edit-count' => '$1 Kemm', # Fuzzy
 	'chat-member-since' => 'Ezel adalek an $1',
 	'chat-great-youre-logged-in' => "Dreist ! Kevreet oc'h.",
 	'chat-user-menu-talk-page' => 'Pajenn gaozeal',
@@ -328,7 +328,7 @@ $messages['bs'] = array(
 	'chat-default-topic' => 'Dobrodošli na $1 chat',
 	'chat-you-are-banned' => 'Greške pri odobrenju.',
 	'chat-you-are-banned-text' => 'Zabranjen vam je chat.
-Ako mislite da je to greška ili želite da se ponovo razmotri, molimo kontaktirajte administratora.',
+Ako mislite da je to greška ili želite da se ponovo razmotri, molimo kontaktirajte administratora.', # Fuzzy
 	'chat-kick-log-reason' => 'Izbačeni/blokirani ste za chat na ovoj wiki od strane $1.
 Molimo kontaktirajte ga za više podataka.',
 );
@@ -701,6 +701,16 @@ Por favor, contáctalo para más información.',
 	'chat-browser-is-notsupported' => 'Tu navegador no es compatible. Para una mejor experiencia usa un mejor navegador, usa un <a href="http://ayuda.wikia.com/wiki/Ayuda:Navegadores_soportados">navegador nuevo</a>.',
 	'chat-checkuser-join-action' => 'Se unió al chat',
 	'chat-status-away' => 'Ausente',
+);
+
+/** Persian (فارسی)
+ * @author پاناروما
+ */
+$messages['fa'] = array(
+	'chat-ban-modal-label-reason' => 'دلیل:',
+	'chat-log-reason-undo' => 'خنثی‌سازی',
+	'chat-ban-modal-button-cancel' => 'لغو کردن',
+	'chat-live2' => 'گفتگوی زنده',
 );
 
 /** Finnish (suomi)
@@ -1357,7 +1367,7 @@ $messages['ko'] = array(
 	'chat-kick-log-reason' => '$1에 의해 채팅에서 추방됨. 더 자세한 이유는 운영진에게 문의.',
 	'chat-start-a-chat' => '채팅 시작하기',
 	'chat-join-the-chat' => '채팅 참가하기',
-	'chat-edit-count' => '$1회 기여',
+	'chat-edit-count' => '$1회 기여', # Fuzzy
 	'chat-member-since' => '$1부터 기여',
 	'chat-user-menu-message-wall' => '메시지 담벼락',
 );
@@ -1514,7 +1524,7 @@ $messages['mk'] = array(
  * @author Praveenp
  */
 $messages['ml'] = array(
-	'chat-edit-count' => '$1 തിരുത്തലുകൾ',
+	'chat-edit-count' => '$1 തിരുത്തലുകൾ', # Fuzzy
 );
 
 /** Malay (Bahasa Melayu)
@@ -2024,11 +2034,11 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author 555
  * @author Aristóbulo
  * @author Caio1478
  * @author Luckas Blade
  * @author Pedroca cerebral
+ * @author 555
  */
 $messages['pt-br'] = array(
 	'chat' => 'Chat',
@@ -2357,7 +2367,7 @@ $messages['th'] = array(
 	'chat-kick-log-reason' => 'เตะ/แบน จากห้องสนทนาวิกิโดย $1. กรุณาติดต่อพวกเขาสำหรับข้อมูล',
 	'chat-start-a-chat' => 'เริ่มต้นสนทนา',
 	'chat-join-the-chat' => 'เข้าร่วมสนทนา',
-	'chat-edit-count' => '$1 การแก้ไข',
+	'chat-edit-count' => '$1 การแก้ไข', # Fuzzy
 	'chat-member-since' => 'เป็นสมาชิกตั้งแต่ $1',
 );
 
@@ -2658,4 +2668,3 @@ $messages['zh-hant'] = array(
 	'group-bannedfromchat' => '被禁止聊天',
 	'group-bannedfromchat-member' => '被禁止聊天',
 );
-

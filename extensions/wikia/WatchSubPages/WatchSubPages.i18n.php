@@ -272,4 +272,3 @@ $messages['vi'] = array(
 	'wikia-watchsubpages-desc' => 'Tự động theo dõi các trang con',
 	'tog-watchlistsubpages' => 'Theo dõi các trang con',
 );
-

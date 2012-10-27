@@ -21,7 +21,7 @@ $messages['en'] = array(
  * @author Siebrand
  */
 $messages['qqq'] = array(
-	'mostvisitedpageslatest' => 'Needs plural support.',
+	'mostvisitedpageslatest' => 'Needs plural support.', # Fuzzy
 );
 
 /** Afrikaans (Afrikaans)
@@ -384,7 +384,7 @@ $messages['nb'] = array(
  */
 $messages['nl'] = array(
 	'mostvisitedpages' => "Meest bezochte pagina's",
-	'mostvisitedpagessearchtext' => 'Artikelnaam:',
+	'mostvisitedpagessearchtext' => 'Paginanaam:',
 	'mostvisitedpagessearchbtn' => 'zoeken',
 	'mostvisitedpageslatest' => 'in de laatste $1 minuten',
 	'mostvisitedpageslatestlink' => "Recent bezochte pagina's bekijken",
@@ -644,4 +644,3 @@ $messages['zh-hant'] = array(
 $messages['zh-tw'] = array(
 	'mostvisitedpages' => '訪問次數最多的頁面',
 );
-

@@ -39,6 +39,13 @@ $messages['es'] = array(
 	'campfire-licensed-under' => 'Bajo la licencia $1',
 );
 
+/** Persian (فارسی)
+ * @author پاناروما
+ */
+$messages['fa'] = array(
+	'campfire-licensed-under' => 'تحت مجوز$1',
+);
+
 /** Finnish (suomi)
  * @author Ilkea
  */
@@ -213,4 +220,3 @@ $messages['zh-hans'] = array(
 $messages['zh-hant'] = array(
 	'campfire-page-header' => '$1從$2',
 );
-

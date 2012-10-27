@@ -209,4 +209,3 @@ $messages['tt-cyrl'] = array(
 $messages['zh-hans'] = array(
 	'centralhelpsearch-placeholder' => '搜索帮助……',
 );
-

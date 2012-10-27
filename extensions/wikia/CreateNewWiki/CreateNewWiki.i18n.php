@@ -446,7 +446,7 @@ Hizivait dre PayPal evit kaout ur wiki nevez ouzhpenn evit $4.95 ar miz nemetken
 	'cnw-error-database' => 'Fazi en diaz roadennoù : $1',
 	'cnw-badword-msg' => "Ac'hanta, mar plij chomit hep implijout gerioù vil pe difennet e deskrivadur ho wiki : $1",
 	'cnw-error-wiki-limit-header' => 'Bevenn ar wikioù bet tizhet',
-	'cnw-error-wiki-limit' => "Ac'hanta, bevennet eo ar c'hrouiñ wikioù da $1 wiki dre zen ha dre zevezh. Gortozit 24 eurvezh a-benn gellout krouiñ unan all.",
+	'cnw-error-wiki-limit' => "Ac'hanta, bevennet eo ar c'hrouiñ wikioù da $1 wiki dre zen ha dre zevezh. Gortozit 24 eurvezh a-benn gellout krouiñ unan all.", # Fuzzy
 	'cnw-error-blocked-header' => 'Kont stanket',
 );
 
@@ -2155,7 +2155,7 @@ Adote esta versão através do PayPal para ter uma wiki livre de anúncios por a
 	'cnw-error-general' => 'Algo deu errado ao criar a sua wiki. Por favor, tente novamente mais tarde.',
 	'cnw-error-general-heading' => 'Erro ao Criar uma Wiki Nova',
 	'cnw-badword-header' => 'Atenção',
-	'cnw-badword-msg' => 'Não use palavras impróprias ou proibidas na Descrição da Wiki, por favor',
+	'cnw-badword-msg' => 'Não use palavras impróprias ou proibidas na Descrição da Wiki, por favor', # Fuzzy
 	'cnw-error-blocked-header' => 'Conta bloqueada',
 );
 
@@ -2352,7 +2352,7 @@ $messages['sr-ec'] = array(
 	'cnw-badword-header' => 'Упозорење',
 	'cnw-badword-msg' => 'Здраво. Молимо вас да се уздржите од употребе непристојних и забрањених речи које се налазе у опису викија: $1',
 	'cnw-error-wiki-limit-header' => 'Достигнуто је ограничење направљених викија',
-	'cnw-error-wiki-limit' => 'Здраво. Можете да направите само по $1 вики дневно. Сачекајте 24 часа, па потом направите други.',
+	'cnw-error-wiki-limit' => 'Здраво. Можете да направите само по $1 вики дневно. Сачекајте 24 часа, па потом направите други.', # Fuzzy
 	'cnw-error-blocked-header' => 'Налог је блокиран',
 	'cnw-error-blocked' => '{{GENDER:$1|Блокирао вас је корисник|Блокирала вас је корисница|Блокирао вас је корисник}} $1. Наведени разлог гласи: $2 (назнака блокаде: $3).',
 	'cnw-error-torblock' => 'Није дозвољено стварање викија преко Тор мреже.',
@@ -2457,14 +2457,14 @@ $messages['te'] = array(
 	'cnw-call-to-signup' => 'ఇక్కడ నమోదు చేసుకోండి',
 	'cnw-login-prompt' => 'ఇప్పటికే మీకు ఖాతా ఉందా?',
 	'cnw-call-to-login' => 'ఇక్కడ ప్రవేశించండి',
-	'cnw-auth-headline' => 'వికీని మొదలుపెట్టడం',
+	'cnw-auth-headline' => 'వికీని మొదలుపెట్టడం', # Fuzzy
 	'cnw-desc-headline' => 'మీ వికీ దేని గురించి?',
 	'cnw-desc-tip1' => 'చిట్కా',
-	'cnw-desc-tip1-creative' => 'మీ వికీ దేని గురించో ప్రజలకు చెప్పండి',
-	'cnw-desc-tip2' => 'చిట్కా 2',
-	'cnw-desc-tip2-creative' => 'వివరాలను చేర్చడం మర్చిపోకండి',
-	'cnw-desc-tip3' => 'చిట్కా 3',
-	'cnw-desc-tip3-creative' => 'తోడ్పడమని ప్రజలని ఆహ్వానించండి',
+	'cnw-desc-tip1-creative' => 'మీ వికీ దేని గురించో ప్రజలకు చెప్పండి', # Fuzzy
+	'cnw-desc-tip2' => 'చిట్కా 2', # Fuzzy
+	'cnw-desc-tip2-creative' => 'వివరాలను చేర్చడం మర్చిపోకండి', # Fuzzy
+	'cnw-desc-tip3' => 'చిట్కా 3', # Fuzzy
+	'cnw-desc-tip3-creative' => 'తోడ్పడమని ప్రజలని ఆహ్వానించండి', # Fuzzy
 	'cnw-desc-choose' => 'వర్గాన్ని ఎంచుకోండి',
 	'cnw-desc-default-lang' => 'మీ వికీ $1 లో ఉంటుంది',
 	'cnw-desc-change-lang' => 'మార్చండి',
@@ -2698,7 +2698,7 @@ $messages['uk'] = array(
 	'cnw-badword-header' => 'Шо за фігня?',
 	'cnw-badword-msg' => 'Будь ласка, не вживайте русизмів на $1 !',
 	'cnw-error-wiki-limit-header' => 'Ліміт створення вікі',
-	'cnw-error-wiki-limit' => 'Ви досягли обмеження $1 на створення вікі в день. Чекайте 24 години.',
+	'cnw-error-wiki-limit' => 'Ви досягли обмеження $1 на створення вікі в день. Чекайте 24 години.', # Fuzzy
 	'cnw-error-blocked-header' => 'Облікований запис заблоковано',
 	'cnw-error-blocked' => 'Ви заблоковані $1. Причиною було: $2. (Для довідки: $3)',
 	'cnw-error-bot' => 'Нам здається, що ви - бот.  Якщо це не так, звертайтеся [http://www.wikia.com/Special:Contact/general сюди].',
@@ -2797,7 +2797,8 @@ Nâng cấp thông qua PayPal để có được một quảng cáo wiki miễn 
 	'cnw-error-bot-header' => 'Bạn đã được phát hiện là một bot',
 );
 
-/** Chinese (中文) */
+/** Chinese (中文)
+ */
 $messages['zh'] = array(
 	'createnewwiki-desc' => '[[Special:CreateNewWiki|Wiki creation wizard]]',
 	'cnw-next' => 'Next',
@@ -2973,4 +2974,3 @@ $messages['zh-hant'] = array(
 	'cnw-error-torblock' => '不允許通過 Tor 網路創建 wiki 。',
 	'cnw-error-bot-header' => '你已被檢測到是機器人',
 );
-

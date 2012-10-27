@@ -295,12 +295,14 @@ $messages['qqq'] = array(
 	'usersignup-confirmation-email-content' => 'Confirmation email template body content.  $CONFIRMURL is full url to goto confirm email, and is displayed as-is.',
 	'usersignup-confirmation-email-signature' => 'Confirmation email template footer signature.',
 	'usersignup-confirmation-email_body' => 'Text only version of the confirmation email.  Contains the same content as the templated version.  $2 is username, $3 is confirmation url.',
+	'usersignup-confirmation-email_body-HTML' => 'Standalone HTML version of confirmation email.  Contains the same content as the templated version.  $1 is username, $2 is confirmation url.',
 	'usersignup-reconfirmation-email-sent' => 'Message telling user that the e-mail address has been changed to $1.',
 	'usersignup-reconfirmation-email_subject' => 'Subject of Confirmation email stating email has changed',
 	'usersignup-reconfirmation-email-greeting' => 'Greeting of Confirmation email stating email has changed.',
 	'usersignup-reconfirmation-email-content' => 'Body of Confirmation email stating email has changed.  $CONFIRMURL is url to confirm the email change, and is displayed and linked as-is.',
 	'usersignup-reconfirmation-email-signature' => 'Signature of confirmation email stating email has changed.',
 	'usersignup-reconfirmation-email_body' => 'Text-only version of Confirmation email stating email has changed.  $2 is username, $3 is confirmation url.',
+	'usersignup-reconfirmation-email_body-HTML' => 'Standalone HTML email version of confirmation email stating email has changed.  $1 is username, $2 is confirmation link.',
 	'usersignup-welcome-email-subject' => 'Welcome email subject.  $USERNAME is magic word for user name.',
 	'usersignup-welcome-email-greeting' => 'Welcome email greeting.  $USERNAME is magic word for user name.',
 	'usersignup-welcome-email-heading' => 'Welcome email heading.  SITENAME is MediaWiki magic word for wiki name.',
@@ -342,11 +344,13 @@ $messages['qqq'] = array(
 	'usersignup-account-creation-email-content' => 'Confirmation email body for people receiving the account when byemail=1 is used.  $USERNAME is user name, $NEWPASSWORD is new password for the user to use.',
 	'usersignup-account-creation-email-signature' => 'Confirmation email signature for people receiving the account when byemail=1 is used.',
 	'usersignup-account-creation-email-body' => 'Text-only version of confirmation email for people receiving the account when byemail=1 is used.  $2 is username, $3 is the new password.',
+	'usersignup-account-creation-email-body-HTML' => 'Standalone HTML version of confirmation email for people receiving the account when byemail=1 is used.  $2 is username, $3 is the new password.',
 	'usersignup-confirmation-reminder-email_subject' => 'Confirmation email subject that is sent 7 days after user has started the signup process without confirming.',
 	'usersignup-confirmation-reminder-email-greeting' => 'Confirmation email greeting that is sent 7 days after user has started the signup process without confirming.  $USERNAME is user name.',
 	'usersignup-confirmation-reminder-email-content' => 'Confirmation email body that is sent 7 days after user has started the signup process without confirming.  $CONFIRMURL is confirmation url, and should be displayed and linked as-is.  $USERNAME is user name.',
 	'usersignup-confirmation-reminder-email-signature' => 'Confirmation email signature that is sent 7 days after user has started the signup process without confirming.',
 	'usersignup-confirmation-reminder-email_body' => 'Text-only version of confirmation email that is sent 7 days after user has started the signup process without confirming.  $1 is username, $2 is confirmation url.',
+	'usersignup-confirmation-reminder-email_body-HTML' => 'Stand-alone HTML version of confirmation email that is sent 7 days after user has started the signup process without confirming.  $1 is username, $2 is confirmation url.',
 );
 
 /** Breton (brezhoneg)
@@ -3629,7 +3633,7 @@ $messages['zh-hans'] = array(
 
 $3
 
-Wikia团队',
+Wikia团队', # Fuzzy
 	'usersignup-reconfirmation-email-sent' => '您的电子邮箱地址已换成$1。我们已向您发送确认邮件。请确认您新的邮箱地址。',
 	'usersignup-reconfirmation-email_subject' => '在Wikia上确认您的电子邮箱地址。',
 	'usersignup-reconfirmation-email-greeting' => '你好$USERNAME',
@@ -3764,4 +3768,3 @@ ___________________________________________
 想控制接收那些电子邮件？请查看：{{fullurl:{{ns:special}}:Preferences}}',
 	'usersignup-facebook-problem' => '与脸谱链接出错，请稍后再试。',
 );
-
